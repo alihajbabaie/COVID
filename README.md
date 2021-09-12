@@ -1,5 +1,5 @@
 # COVID
-This Branch includes COVID-19 vaccine shipment and wastage data. The initial data covers a span of late december 2020 to the end of March 2021 and is being updated as more data become available. 
+This Branch includes COVID-19 vaccine allocation, shipment, and wastage data. The initial data covers a span of late december 2020 to the end of March 2021 and is being updated as more data become available. 
 
 Vaccine shipment files have the following Data Fileds. The description of each field is given below:
 PROVIDER_NAME:	The name of provider who administers vaccines
