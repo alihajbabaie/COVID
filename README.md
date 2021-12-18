@@ -1,7 +1,11 @@
 # COVID
-This Branch includes COVID-19 vaccine allocation, shipment, and wastage data. The initial data covers a span of late december 2020 to the end of March 2021 and is being updated as more data become available. 
+This Branch includes COVID-19 vaccine allocation, shipment, and wastage data. The initial data under "National" Branch covers a span of late december 2020 to the end of March 2021 and is being updated as more data become available. 
 
-Vaccine shipment files have the following Data Fileds. The description of each field is given below:
+Other Branches include data specific to other states and are being updated continuously. 
+
+All data included in this repository can be used by researchers and other parties following proper citation of this repository and the accompanying paper.
+
+Vaccine shipment files in "National" have the following Data Fileds. The description of each field is given below:
 PROVIDER_NAME:	The name of provider who administers vaccines
 STREET_SHP:	the street address of the provider
 STREET2_SHP:	The apartment, suite, unit, etc. of the provider; This field may be blank if the information is not reported or the provide does not have suite number. 
