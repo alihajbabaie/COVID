@@ -1,0 +1,23 @@
+message: "If you use this dataset please cite it as below."
+authors:
+  - family-names: Hajbabaie
+    given-names: Ali
+    orcid: https://orcid.org/0000-0001-6757-1981
+
+  - family-names: Hajibabai
+    given-names: Leila	
+    orcid: https://orcid.org/0000-0002-7032-7231
+
+  - family-names: Swann
+    given-names: Julie	
+    orcid: https://orcid.org/0000-0003-2151-4396
+
+
+  - family-names: Vergano
+    given-names: Dan
+
+
+title: COVID-19 Vaccine Allocation, Shipment, and Wastage Data
+version: V1.1.1
+date-released: 2021-12-18
+DOI: 10.5281/zenodo.5791237
