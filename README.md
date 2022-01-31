@@ -9,7 +9,7 @@ All data included in this repository can be used by researchers and other intere
 
 2- Hajbabaie A., L. Hajibabai, J. Swann, D. Vergano, A. Atik, K. Li, and D. Zheng. (2021). COVID-19 Vaccine Allocation, Distribution, and Wastage Data. DOI: 10.5281/zenodo.5791237.
 
-3- Hajbabaie, Ali; Hajibabai, Leila; Swann, Julie; Vergano, Dan, 2022, "COVID-19 Vaccine Distribution Data", https://doi.org/10.7910/DVN/FYQ2PW, Harvard Dataverse, DRAFT VERSION, UNF:6:tpmh9msXhk0d+PTS0Ots3Q== [fileUNF] 
+3- Hajbabaie, Ali; Hajibabai, Leila; Swann, Julie; Vergano, Dan, 2022, "COVID-19 Vaccine Distribution Data", https://doi.org/10.7910/DVN/FYQ2PW, Harvard Dataverse, V1, UNF:6:tpmh9msXhk0d+PTS0Ots3Q== [fileUNF] 
 
 Vaccine shipment files in "National" have the following Data Fileds. The description of each field is given below:
 
