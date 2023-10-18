@@ -1,0 +1,1246 @@
+,City,status,Number,rpt_date
+0,,Active,94,05/25/2022
+1,,Deceased,235,05/25/2022
+2,,Recovered*,32057,05/25/2022
+3,Achille,Deceased,1 to 4,05/25/2022
+4,Achille,Recovered*,115,05/25/2022
+5,Ada,Active,15,05/25/2022
+6,Ada,Deceased,125,05/25/2022
+7,Ada,Recovered*,9939,05/25/2022
+8,Adair,Active,5,05/25/2022
+9,Adair,Deceased,5,05/25/2022
+10,Adair,Recovered*,744,05/25/2022
+11,Addington,Deceased,1 to 4,05/25/2022
+12,Addington,Recovered*,15,05/25/2022
+13,Afton,Active,8,05/25/2022
+14,Afton,Deceased,16,05/25/2022
+15,Afton,Recovered*,1425,05/25/2022
+16,Agra,Deceased,1 to 4,05/25/2022
+17,Agra,Recovered*,234,05/25/2022
+18,Albion,Recovered*,34,05/25/2022
+19,Alderson,Active,1 to 4,05/25/2022
+20,Alderson,Deceased,1 to 4,05/25/2022
+21,Alderson,Recovered*,91,05/25/2022
+22,Alex,Deceased,7,05/25/2022
+23,Alex,Recovered*,269,05/25/2022
+24,Aline,Deceased,1 to 4,05/25/2022
+25,Aline,Recovered*,121,05/25/2022
+26,Allen,Active,1 to 4,05/25/2022
+27,Allen,Deceased,6,05/25/2022
+28,Allen,Recovered*,570,05/25/2022
+29,Altus,Active,7,05/25/2022
+30,Altus,Deceased,92,05/25/2022
+31,Altus,Recovered*,5305,05/25/2022
+32,Alva,Active,1 to 4,05/25/2022
+33,Alva,Deceased,33,05/25/2022
+34,Alva,Recovered*,1906,05/25/2022
+35,Amber,Deceased,8,05/25/2022
+36,Amber,Recovered*,228,05/25/2022
+37,Ames,Recovered*,123,05/25/2022
+38,Amorita,Recovered*,30,05/25/2022
+39,Anadarko,Active,1 to 4,05/25/2022
+40,Anadarko,Deceased,61,05/25/2022
+41,Anadarko,Recovered*,2980,05/25/2022
+42,Antlers,Deceased,27,05/25/2022
+43,Antlers,Recovered*,1415,05/25/2022
+44,Apache,Deceased,12,05/25/2022
+45,Apache,Recovered*,1045,05/25/2022
+46,Arapaho,Active,1 to 4,05/25/2022
+47,Arapaho,Deceased,5,05/25/2022
+48,Arapaho,Recovered*,299,05/25/2022
+49,Arcadia,Active,12,05/25/2022
+50,Arcadia,Deceased,1 to 4,05/25/2022
+51,Arcadia,Recovered*,792,05/25/2022
+52,Ardmore,Active,40,05/25/2022
+53,Ardmore,Deceased,166,05/25/2022
+54,Ardmore,Recovered*,10797,05/25/2022
+55,Arkoma,Deceased,1 to 4,05/25/2022
+56,Arkoma,Recovered*,370,05/25/2022
+57,Arnett,Active,1 to 4,05/25/2022
+58,Arnett,Deceased,1 to 4,05/25/2022
+59,Arnett,Recovered*,138,05/25/2022
+60,Asher,Deceased,7,05/25/2022
+61,Asher,Recovered*,293,05/25/2022
+62,Atoka,Active,1 to 4,05/25/2022
+63,Atoka,Deceased,41,05/25/2022
+64,Atoka,Recovered*,2972,05/25/2022
+65,Atwood,Deceased,1 to 4,05/25/2022
+66,Atwood,Recovered*,71,05/25/2022
+67,Avant,Deceased,1 to 4,05/25/2022
+68,Avant,Recovered*,69,05/25/2022
+69,Barnsdall,Active,1 to 4,05/25/2022
+70,Barnsdall,Deceased,11,05/25/2022
+71,Barnsdall,Recovered*,548,05/25/2022
+72,Bartlesville,Active,35,05/25/2022
+73,Bartlesville,Deceased,207,05/25/2022
+74,Bartlesville,Recovered*,9625,05/25/2022
+75,Bearden,Recovered*,1 to 4,05/25/2022
+76,Beaver,Active,1 to 4,05/25/2022
+77,Beaver,Deceased,7,05/25/2022
+78,Beaver,Recovered*,452,05/25/2022
+79,Beggs,Active,1 to 4,05/25/2022
+80,Beggs,Deceased,13,05/25/2022
+81,Beggs,Recovered*,1173,05/25/2022
+82,Bennington,Deceased,5,05/25/2022
+83,Bennington,Recovered*,357,05/25/2022
+84,Bernice,Active,1 to 4,05/25/2022
+85,Bernice,Deceased,1 to 4,05/25/2022
+86,Bernice,Recovered*,113,05/25/2022
+87,Bessie,Deceased,1 to 4,05/25/2022
+88,Bessie,Recovered*,60,05/25/2022
+89,Bethany,Active,11,05/25/2022
+90,Bethany,Deceased,66,05/25/2022
+91,Bethany,Recovered*,4863,05/25/2022
+92,Bethel Acres,Active,1 to 4,05/25/2022
+93,Bethel Acres,Recovered*,5,05/25/2022
+94,Big Cabin,Active,1 to 4,05/25/2022
+95,Big Cabin,Deceased,8,05/25/2022
+96,Big Cabin,Recovered*,504,05/25/2022
+97,Billings,Active,1 to 4,05/25/2022
+98,Billings,Deceased,1 to 4,05/25/2022
+99,Billings,Recovered*,300,05/25/2022
+100,Binger,Deceased,17,05/25/2022
+101,Binger,Recovered*,363,05/25/2022
+102,Bixby,Active,56,05/25/2022
+103,Bixby,Deceased,73,05/25/2022
+104,Bixby,Recovered*,8784,05/25/2022
+105,Blackburn,Recovered*,14,05/25/2022
+106,Blackwell,Active,1 to 4,05/25/2022
+107,Blackwell,Deceased,43,05/25/2022
+108,Blackwell,Recovered*,1537,05/25/2022
+109,Blair,Active,1 to 4,05/25/2022
+110,Blair,Deceased,7,05/25/2022
+111,Blair,Recovered*,538,05/25/2022
+112,Blanchard,Active,11,05/25/2022
+113,Blanchard,Deceased,68,05/25/2022
+114,Blanchard,Recovered*,5595,05/25/2022
+115,Bluejacket,Deceased,1 to 4,05/25/2022
+116,Bluejacket,Recovered*,338,05/25/2022
+117,Boise City,Active,1 to 4,05/25/2022
+118,Boise City,Deceased,5,05/25/2022
+119,Boise City,Recovered*,380,05/25/2022
+120,Bokchito,Active,1 to 4,05/25/2022
+121,Bokchito,Deceased,1 to 4,05/25/2022
+122,Bokchito,Recovered*,548,05/25/2022
+123,Bokoshe,Deceased,5,05/25/2022
+124,Bokoshe,Recovered*,492,05/25/2022
+125,Boley,Deceased,11,05/25/2022
+126,Boley,Recovered*,633,05/25/2022
+127,Boswell,Deceased,6,05/25/2022
+128,Boswell,Recovered*,583,05/25/2022
+129,Bowlegs,Deceased,1 to 4,05/25/2022
+130,Bowlegs,Recovered*,35,05/25/2022
+131,Boynton,Deceased,1 to 4,05/25/2022
+132,Boynton,Recovered*,158,05/25/2022
+133,Bradley,Deceased,1 to 4,05/25/2022
+134,Bradley,Recovered*,78,05/25/2022
+135,Braggs,Deceased,5,05/25/2022
+136,Braggs,Recovered*,248,05/25/2022
+137,Braman,Deceased,1 to 4,05/25/2022
+138,Braman,Recovered*,77,05/25/2022
+139,Bray,Recovered*,1 to 4,05/25/2022
+140,Bridge Creek,Recovered*,1 to 4,05/25/2022
+141,Bridgeport,Recovered*,1 to 4,05/25/2022
+142,Bristow,Active,1 to 4,05/25/2022
+143,Bristow,Deceased,59,05/25/2022
+144,Bristow,Recovered*,2264,05/25/2022
+145,Broken Arrow,Active,193,05/25/2022
+146,Broken Arrow,Deceased,421,05/25/2022
+147,Broken Arrow,Recovered*,38198,05/25/2022
+148,Broken Bow,Deceased,64,05/25/2022
+149,Broken Bow,Recovered*,2646,05/25/2022
+150,Bromide,Deceased,1 to 4,05/25/2022
+151,Bromide,Recovered*,52,05/25/2022
+152,Buffalo,Deceased,8,05/25/2022
+153,Buffalo,Recovered*,261,05/25/2022
+154,Burbank,Deceased,1 to 4,05/25/2022
+155,Burbank,Recovered*,101,05/25/2022
+156,Burlington,Deceased,1 to 4,05/25/2022
+157,Burlington,Recovered*,60,05/25/2022
+158,Burns Flat,Deceased,7,05/25/2022
+159,Burns Flat,Recovered*,343,05/25/2022
+160,Butler,Deceased,1 to 4,05/25/2022
+161,Butler,Recovered*,99,05/25/2022
+162,Byars,Deceased,1 to 4,05/25/2022
+163,Byars,Recovered*,217,05/25/2022
+164,Byng,Recovered*,8,05/25/2022
+165,Byron,Recovered*,7,05/25/2022
+166,Cache,Active,1 to 4,05/25/2022
+167,Cache,Deceased,15,05/25/2022
+168,Cache,Recovered*,1525,05/25/2022
+169,Caddo,Deceased,6,05/25/2022
+170,Caddo,Recovered*,724,05/25/2022
+171,Calera,Active,8,05/25/2022
+172,Calera,Deceased,19,05/25/2022
+173,Calera,Recovered*,1711,05/25/2022
+174,Calumet,Deceased,5,05/25/2022
+175,Calumet,Recovered*,352,05/25/2022
+176,Calvin,Active,1 to 4,05/25/2022
+177,Calvin,Deceased,1 to 4,05/25/2022
+178,Calvin,Recovered*,159,05/25/2022
+179,Camargo,Deceased,1 to 4,05/25/2022
+180,Camargo,Recovered*,46,05/25/2022
+181,Cameron,Deceased,1 to 4,05/25/2022
+182,Cameron,Recovered*,523,05/25/2022
+183,Canadian,Deceased,1 to 4,05/25/2022
+184,Canadian,Recovered*,196,05/25/2022
+185,Caney,Deceased,1 to 4,05/25/2022
+186,Caney,Recovered*,229,05/25/2022
+187,Canton,Deceased,6,05/25/2022
+188,Canton,Recovered*,341,05/25/2022
+189,Canute,Active,1 to 4,05/25/2022
+190,Canute,Deceased,1 to 4,05/25/2022
+191,Canute,Recovered*,291,05/25/2022
+192,Carlton Landing,Recovered*,1 to 4,05/25/2022
+193,Carmen,Deceased,1 to 4,05/25/2022
+194,Carmen,Recovered*,90,05/25/2022
+195,Carnegie,Active,1 to 4,05/25/2022
+196,Carnegie,Deceased,35,05/25/2022
+197,Carnegie,Recovered*,882,05/25/2022
+198,Carney,Active,1 to 4,05/25/2022
+199,Carney,Deceased,1 to 4,05/25/2022
+200,Carney,Recovered*,200,05/25/2022
+201,Carrier,Recovered*,50,05/25/2022
+202,Carter,Deceased,1 to 4,05/25/2022
+203,Carter,Recovered*,120,05/25/2022
+204,Cashion,Deceased,1 to 4,05/25/2022
+205,Cashion,Recovered*,506,05/25/2022
+206,Castle,Deceased,1 to 4,05/25/2022
+207,Castle,Recovered*,137,05/25/2022
+208,Catoosa,Active,11,05/25/2022
+209,Catoosa,Deceased,29,05/25/2022
+210,Catoosa,Recovered*,2009,05/25/2022
+211,Cement,Deceased,1 to 4,05/25/2022
+212,Cement,Recovered*,430,05/25/2022
+213,Centrahoma,Deceased,1 to 4,05/25/2022
+214,Centrahoma,Recovered*,82,05/25/2022
+215,Central High,Recovered*,1 to 4,05/25/2022
+216,Chandler,Active,1 to 4,05/25/2022
+217,Chandler,Deceased,34,05/25/2022
+218,Chandler,Recovered*,1701,05/25/2022
+219,Chattanooga,Deceased,1 to 4,05/25/2022
+220,Chattanooga,Recovered*,182,05/25/2022
+221,Checotah,Active,1 to 4,05/25/2022
+222,Checotah,Deceased,53,05/25/2022
+223,Checotah,Recovered*,1757,05/25/2022
+224,Chelsea,Active,6,05/25/2022
+225,Chelsea,Deceased,32,05/25/2022
+226,Chelsea,Recovered*,1485,05/25/2022
+227,Cherokee,Deceased,1 to 4,05/25/2022
+228,Cherokee,Recovered*,444,05/25/2022
+229,Cheyenne,Deceased,6,05/25/2022
+230,Cheyenne,Recovered*,412,05/25/2022
+231,Chickasha,Active,9,05/25/2022
+232,Chickasha,Deceased,127,05/25/2022
+233,Chickasha,Recovered*,5126,05/25/2022
+234,Choctaw,Active,29,05/25/2022
+235,Choctaw,Deceased,76,05/25/2022
+236,Choctaw,Recovered*,5613,05/25/2022
+237,Chouteau,Active,7,05/25/2022
+238,Chouteau,Deceased,36,05/25/2022
+239,Chouteau,Recovered*,1168,05/25/2022
+240,Claremore,Active,52,05/25/2022
+241,Claremore,Deceased,239,05/25/2022
+242,Claremore,Recovered*,13733,05/25/2022
+243,Clayton,Deceased,6,05/25/2022
+244,Clayton,Recovered*,418,05/25/2022
+245,Clearview,Recovered*,5,05/25/2022
+246,Cleo Springs,Deceased,1 to 4,05/25/2022
+247,Cleo Springs,Recovered*,155,05/25/2022
+248,Cleveland,Active,9,05/25/2022
+249,Cleveland,Deceased,36,05/25/2022
+250,Cleveland,Recovered*,1804,05/25/2022
+251,Clinton,Active,5,05/25/2022
+252,Clinton,Deceased,95,05/25/2022
+253,Clinton,Recovered*,3279,05/25/2022
+254,Coalgate,Deceased,18,05/25/2022
+255,Coalgate,Recovered*,1226,05/25/2022
+256,Colbert,Deceased,12,05/25/2022
+257,Colbert,Recovered*,751,05/25/2022
+258,Colcord,Active,1 to 4,05/25/2022
+259,Colcord,Deceased,14,05/25/2022
+260,Colcord,Recovered*,1193,05/25/2022
+261,Cole,Recovered*,1 to 4,05/25/2022
+262,Collinsville,Active,14,05/25/2022
+263,Collinsville,Deceased,81,05/25/2022
+264,Collinsville,Recovered*,5673,05/25/2022
+265,Colony,Deceased,1 to 4,05/25/2022
+266,Colony,Recovered*,74,05/25/2022
+267,Comanche,Deceased,26,05/25/2022
+268,Comanche,Recovered*,1210,05/25/2022
+269,Commerce,Active,1 to 4,05/25/2022
+270,Commerce,Deceased,14,05/25/2022
+271,Commerce,Recovered*,774,05/25/2022
+272,Copan,Deceased,9,05/25/2022
+273,Copan,Recovered*,387,05/25/2022
+274,Corn,Active,1 to 4,05/25/2022
+275,Corn,Deceased,9,05/25/2022
+276,Corn,Recovered*,142,05/25/2022
+277,Council Hill,Deceased,6,05/25/2022
+278,Council Hill,Recovered*,218,05/25/2022
+279,Covington,Deceased,1 to 4,05/25/2022
+280,Covington,Recovered*,129,05/25/2022
+281,Coweta,Active,14,05/25/2022
+282,Coweta,Deceased,68,05/25/2022
+283,Coweta,Recovered*,4648,05/25/2022
+284,Cowlington,Recovered*,6,05/25/2022
+285,Coyle,Deceased,1 to 4,05/25/2022
+286,Coyle,Recovered*,214,05/25/2022
+287,Crescent,Active,1 to 4,05/25/2022
+288,Crescent,Deceased,11,05/25/2022
+289,Crescent,Recovered*,648,05/25/2022
+290,Cromwell,Deceased,1 to 4,05/25/2022
+291,Cromwell,Recovered*,55,05/25/2022
+292,Crowder,Recovered*,139,05/25/2022
+293,Cushing,Active,8,05/25/2022
+294,Cushing,Deceased,45,05/25/2022
+295,Cushing,Recovered*,2918,05/25/2022
+296,Custer City,Deceased,7,05/25/2022
+297,Custer City,Recovered*,151,05/25/2022
+298,Cyril,Deceased,5,05/25/2022
+299,Cyril,Recovered*,405,05/25/2022
+300,Dacoma,Recovered*,49,05/25/2022
+301,Davenport,Deceased,1 to 4,05/25/2022
+302,Davenport,Recovered*,246,05/25/2022
+303,Davidson,Deceased,1 to 4,05/25/2022
+304,Davidson,Recovered*,56,05/25/2022
+305,Davis,Active,1 to 4,05/25/2022
+306,Davis,Deceased,22,05/25/2022
+307,Davis,Recovered*,1461,05/25/2022
+308,Deer Creek,Deceased,1 to 4,05/25/2022
+309,Deer Creek,Recovered*,74,05/25/2022
+310,Del City,Active,16,05/25/2022
+311,Del City,Deceased,47,05/25/2022
+312,Del City,Recovered*,2493,05/25/2022
+313,Delaware,Deceased,5,05/25/2022
+314,Delaware,Recovered*,273,05/25/2022
+315,Delaware County,Recovered*,1 to 4,05/25/2022
+316,Depew,Active,1 to 4,05/25/2022
+317,Depew,Deceased,8,05/25/2022
+318,Depew,Recovered*,376,05/25/2022
+319,Devol,Deceased,1 to 4,05/25/2022
+320,Devol,Recovered*,74,05/25/2022
+321,Dewar,Deceased,1 to 4,05/25/2022
+322,Dewar,Recovered*,185,05/25/2022
+323,Dewey,Active,6,05/25/2022
+324,Dewey,Deceased,26,05/25/2022
+325,Dewey,Recovered*,1246,05/25/2022
+326,Dibble,Recovered*,55,05/25/2022
+327,Dickson,Recovered*,6,05/25/2022
+328,Dill City,Deceased,7,05/25/2022
+329,Dill City,Recovered*,137,05/25/2022
+330,Disney,Deceased,1 to 4,05/25/2022
+331,Disney,Recovered*,107,05/25/2022
+332,Dougherty,Deceased,1 to 4,05/25/2022
+333,Dougherty,Recovered*,47,05/25/2022
+334,Douglas,Deceased,1 to 4,05/25/2022
+335,Douglas,Recovered*,45,05/25/2022
+336,Dover,Active,1 to 4,05/25/2022
+337,Dover,Deceased,1 to 4,05/25/2022
+338,Dover,Recovered*,197,05/25/2022
+339,Drummond,Deceased,1 to 4,05/25/2022
+340,Drummond,Recovered*,156,05/25/2022
+341,Drumright,Active,1 to 4,05/25/2022
+342,Drumright,Deceased,18,05/25/2022
+343,Drumright,Recovered*,809,05/25/2022
+344,Duncan,Active,12,05/25/2022
+345,Duncan,Deceased,131,05/25/2022
+346,Duncan,Recovered*,7302,05/25/2022
+347,Durant,Active,20,05/25/2022
+348,Durant,Deceased,81,05/25/2022
+349,Durant,Recovered*,7873,05/25/2022
+350,Dustin,Deceased,8,05/25/2022
+351,Dustin,Recovered*,145,05/25/2022
+352,Eakly,Deceased,1 to 4,05/25/2022
+353,Eakly,Recovered*,81,05/25/2022
+354,Earlsboro,Deceased,9,05/25/2022
+355,Earlsboro,Recovered*,594,05/25/2022
+356,East Duke,Recovered*,1 to 4,05/25/2022
+357,Edmond,Active,305,05/25/2022
+358,Edmond,Deceased,363,05/25/2022
+359,Edmond,Recovered*,44628,05/25/2022
+360,El Reno,Active,6,05/25/2022
+361,El Reno,Deceased,76,05/25/2022
+362,El Reno,Recovered*,5238,05/25/2022
+363,Eldorado,Deceased,1 to 4,05/25/2022
+364,Eldorado,Recovered*,89,05/25/2022
+365,Elgin,Active,1 to 4,05/25/2022
+366,Elgin,Deceased,18,05/25/2022
+367,Elgin,Recovered*,1892,05/25/2022
+368,Elk City,Active,8,05/25/2022
+369,Elk City,Deceased,68,05/25/2022
+370,Elk City,Recovered*,3841,05/25/2022
+371,Elmer,Recovered*,40,05/25/2022
+372,Elmore City,Active,1 to 4,05/25/2022
+373,Elmore City,Deceased,10,05/25/2022
+374,Elmore City,Recovered*,631,05/25/2022
+375,Enid,Active,39,05/25/2022
+376,Enid,Deceased,269,05/25/2022
+377,Enid,Recovered*,13229,05/25/2022
+378,Erick,Active,1 to 4,05/25/2022
+379,Erick,Deceased,1 to 4,05/25/2022
+380,Erick,Recovered*,298,05/25/2022
+381,Etowah,Recovered*,1 to 4,05/25/2022
+382,Eufaula,Active,12,05/25/2022
+383,Eufaula,Deceased,70,05/25/2022
+384,Eufaula,Recovered*,2076,05/25/2022
+385,Fair Oaks,Recovered*,1 to 4,05/25/2022
+386,Fairfax,Active,1 to 4,05/25/2022
+387,Fairfax,Deceased,14,05/25/2022
+388,Fairfax,Recovered*,460,05/25/2022
+389,Fairland,Active,6,05/25/2022
+390,Fairland,Deceased,11,05/25/2022
+391,Fairland,Recovered*,799,05/25/2022
+392,Fairmont,Deceased,1 to 4,05/25/2022
+393,Fairmont,Recovered*,89,05/25/2022
+394,Fairview,Active,1 to 4,05/25/2022
+395,Fairview,Deceased,27,05/25/2022
+396,Fairview,Recovered*,1020,05/25/2022
+397,Fanshawe,Recovered*,23,05/25/2022
+398,Fargo,Deceased,1 to 4,05/25/2022
+399,Fargo,Recovered*,132,05/25/2022
+400,Faxon,Active,1 to 4,05/25/2022
+401,Faxon,Recovered*,109,05/25/2022
+402,Fitzhugh,Recovered*,61,05/25/2022
+403,Fletcher,Deceased,8,05/25/2022
+404,Fletcher,Recovered*,791,05/25/2022
+405,Foraker,Recovered*,1 to 4,05/25/2022
+406,Forest Park,Recovered*,26,05/25/2022
+407,Forgan,Deceased,1 to 4,05/25/2022
+408,Forgan,Recovered*,134,05/25/2022
+409,Fort Cobb,Deceased,8,05/25/2022
+410,Fort Cobb,Recovered*,472,05/25/2022
+411,Fort Coffee,Recovered*,1 to 4,05/25/2022
+412,Fort Gibson,Active,8,05/25/2022
+413,Fort Gibson,Deceased,35,05/25/2022
+414,Fort Gibson,Recovered*,2502,05/25/2022
+415,Fort Supply,Deceased,1 to 4,05/25/2022
+416,Fort Supply,Recovered*,959,05/25/2022
+417,Fort Towson,Deceased,8,05/25/2022
+418,Fort Towson,Recovered*,357,05/25/2022
+419,Foss,Deceased,1 to 4,05/25/2022
+420,Foss,Recovered*,255,05/25/2022
+421,Foster,Recovered*,125,05/25/2022
+422,Foyil,Deceased,1 to 4,05/25/2022
+423,Foyil,Recovered*,53,05/25/2022
+424,Francis,Deceased,1 to 4,05/25/2022
+425,Francis,Recovered*,101,05/25/2022
+426,Frederick,Deceased,23,05/25/2022
+427,Frederick,Recovered*,874,05/25/2022
+428,Freedom,Deceased,1 to 4,05/25/2022
+429,Freedom,Recovered*,88,05/25/2022
+430,Gage,Deceased,1 to 4,05/25/2022
+431,Gage,Recovered*,119,05/25/2022
+432,Gans,Deceased,1 to 4,05/25/2022
+433,Gans,Recovered*,262,05/25/2022
+434,Garber,Deceased,1 to 4,05/25/2022
+435,Garber,Recovered*,269,05/25/2022
+436,Garvin,Deceased,1 to 4,05/25/2022
+437,Garvin,Recovered*,249,05/25/2022
+438,Gate,Recovered*,37,05/25/2022
+439,Geary,Deceased,10,05/25/2022
+440,Geary,Recovered*,410,05/25/2022
+441,Gene Autry,Recovered*,23,05/25/2022
+442,Geronimo,Active,1 to 4,05/25/2022
+443,Geronimo,Deceased,6,05/25/2022
+444,Geronimo,Recovered*,456,05/25/2022
+445,Glencoe,Active,1 to 4,05/25/2022
+446,Glencoe,Deceased,6,05/25/2022
+447,Glencoe,Recovered*,435,05/25/2022
+448,Glenpool,Active,17,05/25/2022
+449,Glenpool,Deceased,53,05/25/2022
+450,Glenpool,Recovered*,3937,05/25/2022
+451,Goldsby,Active,1 to 4,05/25/2022
+452,Goldsby,Deceased,1 to 4,05/25/2022
+453,Goldsby,Recovered*,212,05/25/2022
+454,Goltry,Deceased,1 to 4,05/25/2022
+455,Goltry,Recovered*,79,05/25/2022
+456,Goodwell,Deceased,1 to 4,05/25/2022
+457,Goodwell,Recovered*,279,05/25/2022
+458,Gore,Active,1 to 4,05/25/2022
+459,Gore,Deceased,13,05/25/2022
+460,Gore,Recovered*,797,05/25/2022
+461,Gotebo,Deceased,1 to 4,05/25/2022
+462,Gotebo,Recovered*,62,05/25/2022
+463,Gould,Deceased,1 to 4,05/25/2022
+464,Gould,Recovered*,43,05/25/2022
+465,Gracemont,Active,1 to 4,05/25/2022
+466,Gracemont,Deceased,7,05/25/2022
+467,Gracemont,Recovered*,288,05/25/2022
+468,Grand Lake Towne,Recovered*,1 to 4,05/25/2022
+469,Grandfield,Deceased,1 to 4,05/25/2022
+470,Grandfield,Recovered*,224,05/25/2022
+471,Granite,Deceased,9,05/25/2022
+472,Granite,Recovered*,296,05/25/2022
+473,Grayson,Recovered*,1 to 4,05/25/2022
+474,Greenfield,Deceased,1 to 4,05/25/2022
+475,Greenfield,Recovered*,34,05/25/2022
+476,Grove,Active,7,05/25/2022
+477,Grove,Deceased,101,05/25/2022
+478,Grove,Recovered*,3731,05/25/2022
+479,Guthrie,Active,21,05/25/2022
+480,Guthrie,Deceased,107,05/25/2022
+481,Guthrie,Recovered*,5891,05/25/2022
+482,Guymon,Active,1 to 4,05/25/2022
+483,Guymon,Deceased,52,05/25/2022
+484,Guymon,Recovered*,4355,05/25/2022
+485,Haileyville,Deceased,1 to 4,05/25/2022
+486,Haileyville,Recovered*,162,05/25/2022
+487,Hallett,Active,1 to 4,05/25/2022
+488,Hallett,Deceased,1 to 4,05/25/2022
+489,Hallett,Recovered*,34,05/25/2022
+490,Hammon,Deceased,1 to 4,05/25/2022
+491,Hammon,Recovered*,253,05/25/2022
+492,Hanna,Recovered*,75,05/25/2022
+493,Hardesty,Recovered*,86,05/25/2022
+494,Harrah,Active,5,05/25/2022
+495,Harrah,Deceased,40,05/25/2022
+496,Harrah,Recovered*,3194,05/25/2022
+497,Hartshorne,Active,1 to 4,05/25/2022
+498,Hartshorne,Deceased,24,05/25/2022
+499,Hartshorne,Recovered*,765,05/25/2022
+500,Haskell,Active,1 to 4,05/25/2022
+501,Haskell,Deceased,20,05/25/2022
+502,Haskell,Recovered*,1390,05/25/2022
+503,Hastings,Deceased,1 to 4,05/25/2022
+504,Hastings,Recovered*,102,05/25/2022
+505,Haworth,Deceased,7,05/25/2022
+506,Haworth,Recovered*,465,05/25/2022
+507,Headrick,Deceased,1 to 4,05/25/2022
+508,Headrick,Recovered*,74,05/25/2022
+509,Healdton,Active,1 to 4,05/25/2022
+510,Healdton,Deceased,26,05/25/2022
+511,Healdton,Recovered*,720,05/25/2022
+512,Heavener,Active,5,05/25/2022
+513,Heavener,Deceased,14,05/25/2022
+514,Heavener,Recovered*,1343,05/25/2022
+515,Helena,Deceased,1 to 4,05/25/2022
+516,Helena,Recovered*,805,05/25/2022
+517,Hendrix,Active,1 to 4,05/25/2022
+518,Hendrix,Recovered*,232,05/25/2022
+519,Hennessey,Active,1 to 4,05/25/2022
+520,Hennessey,Deceased,22,05/25/2022
+521,Hennessey,Recovered*,1241,05/25/2022
+522,Henryetta,Active,1 to 4,05/25/2022
+523,Henryetta,Deceased,61,05/25/2022
+524,Henryetta,Recovered*,2114,05/25/2022
+525,Hillsdale,Recovered*,37,05/25/2022
+526,Hinton,Deceased,7,05/25/2022
+527,Hinton,Recovered*,886,05/25/2022
+528,Hitchcock,Recovered*,57,05/25/2022
+529,Hitchita,Deceased,1 to 4,05/25/2022
+530,Hitchita,Recovered*,30,05/25/2022
+531,Hobart,Deceased,24,05/25/2022
+532,Hobart,Recovered*,893,05/25/2022
+533,Hoffman,Recovered*,1 to 4,05/25/2022
+534,Holdenville,Deceased,35,05/25/2022
+535,Holdenville,Recovered*,1348,05/25/2022
+536,Hollis,Active,1 to 4,05/25/2022
+537,Hollis,Deceased,10,05/25/2022
+538,Hollis,Recovered*,462,05/25/2022
+539,Hollister,Deceased,1 to 4,05/25/2022
+540,Hollister,Recovered*,1 to 4,05/25/2022
+541,Hominy,Deceased,14,05/25/2022
+542,Hominy,Recovered*,1308,05/25/2022
+543,Hooker,Recovered*,567,05/25/2022
+544,Horntown,Recovered*,1 to 4,05/25/2022
+545,Howe,Deceased,1 to 4,05/25/2022
+546,Howe,Recovered*,667,05/25/2022
+547,Hugo,Active,5,05/25/2022
+548,Hugo,Deceased,39,05/25/2022
+549,Hugo,Recovered*,2293,05/25/2022
+550,Hulbert,Active,8,05/25/2022
+551,Hulbert,Deceased,15,05/25/2022
+552,Hulbert,Recovered*,1460,05/25/2022
+553,Hunter,Deceased,1 to 4,05/25/2022
+554,Hunter,Recovered*,65,05/25/2022
+555,Hydro,Active,1 to 4,05/25/2022
+556,Hydro,Deceased,12,05/25/2022
+557,Hydro,Recovered*,498,05/25/2022
+558,Idabel,Active,1 to 4,05/25/2022
+559,Idabel,Deceased,52,05/25/2022
+560,Idabel,Recovered*,2808,05/25/2022
+561,Indiahoma,Deceased,7,05/25/2022
+562,Indiahoma,Recovered*,352,05/25/2022
+563,Indianola,Recovered*,147,05/25/2022
+564,Inola,Active,1 to 4,05/25/2022
+565,Inola,Deceased,22,05/25/2022
+566,Inola,Recovered*,1788,05/25/2022
+567,Jay,Active,6,05/25/2022
+568,Jay,Deceased,45,05/25/2022
+569,Jay,Recovered*,2683,05/25/2022
+570,Jenks,Active,25,05/25/2022
+571,Jenks,Deceased,53,05/25/2022
+572,Jenks,Recovered*,6198,05/25/2022
+573,Jennings,Active,1 to 4,05/25/2022
+574,Jennings,Deceased,6,05/25/2022
+575,Jennings,Recovered*,491,05/25/2022
+576,Jet,Deceased,1 to 4,05/25/2022
+577,Jet,Recovered*,91,05/25/2022
+578,Jones,Active,1 to 4,05/25/2022
+579,Jones,Deceased,27,05/25/2022
+580,Jones,Recovered*,1456,05/25/2022
+581,Kansas,Active,5,05/25/2022
+582,Kansas,Deceased,9,05/25/2022
+583,Kansas,Recovered*,955,05/25/2022
+584,Kaw City,Active,1 to 4,05/25/2022
+585,Kaw City,Deceased,1 to 4,05/25/2022
+586,Kaw City,Recovered*,151,05/25/2022
+587,Kellyville,Active,1 to 4,05/25/2022
+588,Kellyville,Deceased,9,05/25/2022
+589,Kellyville,Recovered*,805,05/25/2022
+590,Kemp,Recovered*,11,05/25/2022
+591,Kendrick,Recovered*,11,05/25/2022
+592,Kenefic,Deceased,1 to 4,05/25/2022
+593,Kenefic,Recovered*,139,05/25/2022
+594,Keota,Recovered*,508,05/25/2022
+595,Ketchum,Deceased,1 to 4,05/25/2022
+596,Ketchum,Recovered*,147,05/25/2022
+597,Keyes,Deceased,1 to 4,05/25/2022
+598,Keyes,Recovered*,113,05/25/2022
+599,Kiefer,Active,1 to 4,05/25/2022
+600,Kiefer,Deceased,10,05/25/2022
+601,Kiefer,Recovered*,745,05/25/2022
+602,Kingfisher,Deceased,33,05/25/2022
+603,Kingfisher,Recovered*,1773,05/25/2022
+604,Kingston,Active,1 to 4,05/25/2022
+605,Kingston,Deceased,25,05/25/2022
+606,Kingston,Recovered*,2010,05/25/2022
+607,Kinta,Deceased,7,05/25/2022
+608,Kinta,Recovered*,167,05/25/2022
+609,Kiowa,Deceased,6,05/25/2022
+610,Kiowa,Recovered*,341,05/25/2022
+611,Knowles,Recovered*,1 to 4,05/25/2022
+612,Konawa,Active,1 to 4,05/25/2022
+613,Konawa,Deceased,19,05/25/2022
+614,Konawa,Recovered*,788,05/25/2022
+615,Krebs,Active,1 to 4,05/25/2022
+616,Krebs,Deceased,9,05/25/2022
+617,Krebs,Recovered*,390,05/25/2022
+618,Kremlin,Recovered*,99,05/25/2022
+619,Lahoma,Active,1 to 4,05/25/2022
+620,Lahoma,Deceased,8,05/25/2022
+621,Lahoma,Recovered*,246,05/25/2022
+622,Lake Aluma,Recovered*,1 to 4,05/25/2022
+623,Lamar,Deceased,1 to 4,05/25/2022
+624,Lamar,Recovered*,45,05/25/2022
+625,Lamont,Deceased,1 to 4,05/25/2022
+626,Lamont,Recovered*,129,05/25/2022
+627,Langley,Active,1 to 4,05/25/2022
+628,Langley,Deceased,1 to 4,05/25/2022
+629,Langley,Recovered*,194,05/25/2022
+630,Langston,Deceased,1 to 4,05/25/2022
+631,Langston,Recovered*,114,05/25/2022
+632,Laverne,Deceased,1 to 4,05/25/2022
+633,Laverne,Recovered*,390,05/25/2022
+634,Lawton,Active,30,05/25/2022
+635,Lawton,Deceased,331,05/25/2022
+636,Lawton,Recovered*,21103,05/25/2022
+637,Le Flore,Recovered*,1 to 4,05/25/2022
+638,Leedey,Deceased,8,05/25/2022
+639,Leedey,Recovered*,195,05/25/2022
+640,Lehigh,Deceased,1 to 4,05/25/2022
+641,Lehigh,Recovered*,118,05/25/2022
+642,Lenapah,Deceased,1 to 4,05/25/2022
+643,Lenapah,Recovered*,151,05/25/2022
+644,Leon,Recovered*,51,05/25/2022
+645,Lexington,Active,1 to 4,05/25/2022
+646,Lexington,Deceased,45,05/25/2022
+647,Lexington,Recovered*,2484,05/25/2022
+648,Liberty,Recovered*,1 to 4,05/25/2022
+649,Lindsay,Active,1 to 4,05/25/2022
+650,Lindsay,Deceased,33,05/25/2022
+651,Lindsay,Recovered*,1628,05/25/2022
+652,Loco,Deceased,1 to 4,05/25/2022
+653,Loco,Recovered*,106,05/25/2022
+654,Locust Grove,Active,1 to 4,05/25/2022
+655,Locust Grove,Deceased,21,05/25/2022
+656,Locust Grove,Recovered*,1946,05/25/2022
+657,Lone Grove,Active,1 to 4,05/25/2022
+658,Lone Grove,Deceased,17,05/25/2022
+659,Lone Grove,Recovered*,1081,05/25/2022
+660,Lone Wolf,Recovered*,129,05/25/2022
+661,Longdale,Deceased,1 to 4,05/25/2022
+662,Longdale,Recovered*,170,05/25/2022
+663,Lookeba,Deceased,7,05/25/2022
+664,Lookeba,Recovered*,172,05/25/2022
+665,Loveland,Recovered*,7,05/25/2022
+666,Loyal,Deceased,1 to 4,05/25/2022
+667,Loyal,Recovered*,87,05/25/2022
+668,Luther,Active,1 to 4,05/25/2022
+669,Luther,Deceased,13,05/25/2022
+670,Luther,Recovered*,937,05/25/2022
+671,Macomb,Deceased,5,05/25/2022
+672,Macomb,Recovered*,414,05/25/2022
+673,Madill,Active,6,05/25/2022
+674,Madill,Deceased,20,05/25/2022
+675,Madill,Recovered*,2375,05/25/2022
+676,Manchester,Recovered*,29,05/25/2022
+677,Mangum,Deceased,27,05/25/2022
+678,Mangum,Recovered*,875,05/25/2022
+679,Manitou,Recovered*,35,05/25/2022
+680,Mannford,Active,15,05/25/2022
+681,Mannford,Deceased,44,05/25/2022
+682,Mannford,Recovered*,1842,05/25/2022
+683,Mannsville,Deceased,5,05/25/2022
+684,Mannsville,Recovered*,319,05/25/2022
+685,Maramec,Recovered*,82,05/25/2022
+686,Marble City,Deceased,1 to 4,05/25/2022
+687,Marble City,Recovered*,159,05/25/2022
+688,Marietta,Active,5,05/25/2022
+689,Marietta,Deceased,32,05/25/2022
+690,Marietta,Recovered*,2029,05/25/2022
+691,Marland,Deceased,1 to 4,05/25/2022
+692,Marland,Recovered*,113,05/25/2022
+693,Marlow,Active,1 to 4,05/25/2022
+694,Marlow,Deceased,43,05/25/2022
+695,Marlow,Recovered*,2281,05/25/2022
+696,Marshall,Deceased,1 to 4,05/25/2022
+697,Marshall,Recovered*,89,05/25/2022
+698,Martha,Active,1 to 4,05/25/2022
+699,Martha,Deceased,1 to 4,05/25/2022
+700,Martha,Recovered*,48,05/25/2022
+701,Maud,Active,1 to 4,05/25/2022
+702,Maud,Deceased,1 to 4,05/25/2022
+703,Maud,Recovered*,453,05/25/2022
+704,May,Recovered*,29,05/25/2022
+705,Maysville,Active,1 to 4,05/25/2022
+706,Maysville,Deceased,13,05/25/2022
+707,Maysville,Recovered*,495,05/25/2022
+708,McAlester,Active,14,05/25/2022
+709,McAlester,Deceased,142,05/25/2022
+710,McAlester,Recovered*,7197,05/25/2022
+711,McCurtain,Deceased,1 to 4,05/25/2022
+712,McCurtain,Recovered*,239,05/25/2022
+713,McLoud,Active,1 to 4,05/25/2022
+714,McLoud,Deceased,42,05/25/2022
+715,McLoud,Recovered*,2779,05/25/2022
+716,Mead,Active,1 to 4,05/25/2022
+717,Mead,Deceased,8,05/25/2022
+718,Mead,Recovered*,831,05/25/2022
+719,Medford,Active,1 to 4,05/25/2022
+720,Medford,Deceased,1 to 4,05/25/2022
+721,Medford,Recovered*,335,05/25/2022
+722,Medicine Park,Deceased,1 to 4,05/25/2022
+723,Medicine Park,Recovered*,64,05/25/2022
+724,Meeker,Active,6,05/25/2022
+725,Meeker,Deceased,26,05/25/2022
+726,Meeker,Recovered*,1102,05/25/2022
+727,Meno,Deceased,1 to 4,05/25/2022
+728,Meno,Recovered*,111,05/25/2022
+729,Meridian,Deceased,1 to 4,05/25/2022
+730,Meridian,Recovered*,66,05/25/2022
+731,Miami,Active,14,05/25/2022
+732,Miami,Deceased,63,05/25/2022
+733,Miami,Recovered*,5085,05/25/2022
+734,Midwest City,Active,26,05/25/2022
+735,Midwest City,Deceased,73,05/25/2022
+736,Midwest City,Recovered*,5160,05/25/2022
+737,Milburn,Active,1 to 4,05/25/2022
+738,Milburn,Deceased,1 to 4,05/25/2022
+739,Milburn,Recovered*,361,05/25/2022
+740,Mill Creek,Deceased,1 to 4,05/25/2022
+741,Mill Creek,Recovered*,214,05/25/2022
+742,Millerton,Deceased,1 to 4,05/25/2022
+743,Millerton,Recovered*,62,05/25/2022
+744,Minco,Deceased,10,05/25/2022
+745,Minco,Recovered*,715,05/25/2022
+746,Moffett,Recovered*,11,05/25/2022
+747,Moore,Active,63,05/25/2022
+748,Moore,Deceased,147,05/25/2022
+749,Moore,Recovered*,16629,05/25/2022
+750,Mooreland,Active,1 to 4,05/25/2022
+751,Mooreland,Deceased,8,05/25/2022
+752,Mooreland,Recovered*,371,05/25/2022
+753,Morris,Deceased,18,05/25/2022
+754,Morris,Recovered*,851,05/25/2022
+755,Morrison,Active,1 to 4,05/25/2022
+756,Morrison,Deceased,1 to 4,05/25/2022
+757,Morrison,Recovered*,390,05/25/2022
+758,Mounds,Active,1 to 4,05/25/2022
+759,Mounds,Deceased,31,05/25/2022
+760,Mounds,Recovered*,1751,05/25/2022
+761,Mountain Park,Deceased,1 to 4,05/25/2022
+762,Mountain Park,Recovered*,88,05/25/2022
+763,Mountain View,Deceased,5,05/25/2022
+764,Mountain View,Recovered*,220,05/25/2022
+765,Muldrow,Active,7,05/25/2022
+766,Muldrow,Deceased,19,05/25/2022
+767,Muldrow,Recovered*,2787,05/25/2022
+768,Mulhall,Recovered*,191,05/25/2022
+769,Muskogee,Active,33,05/25/2022
+770,Muskogee,Deceased,250,05/25/2022
+771,Muskogee,Recovered*,12271,05/25/2022
+772,Mustang,Active,22,05/25/2022
+773,Mustang,Deceased,84,05/25/2022
+774,Mustang,Recovered*,6361,05/25/2022
+775,Mutual,Deceased,1 to 4,05/25/2022
+776,Mutual,Recovered*,84,05/25/2022
+777,Nash,Deceased,1 to 4,05/25/2022
+778,Nash,Recovered*,92,05/25/2022
+779,New Cordell,Deceased,12,05/25/2022
+780,New Cordell,Recovered*,585,05/25/2022
+781,Newcastle,Active,16,05/25/2022
+782,Newcastle,Deceased,24,05/25/2022
+783,Newcastle,Recovered*,2961,05/25/2022
+784,Newkirk,Active,1 to 4,05/25/2022
+785,Newkirk,Deceased,12,05/25/2022
+786,Newkirk,Recovered*,988,05/25/2022
+787,Nichols Hills,Active,5,05/25/2022
+788,Nichols Hills,Deceased,5,05/25/2022
+789,Nichols Hills,Recovered*,797,05/25/2022
+790,Nicoma Park,Deceased,1 to 4,05/25/2022
+791,Nicoma Park,Recovered*,88,05/25/2022
+792,Ninnekah,Active,1 to 4,05/25/2022
+793,Ninnekah,Deceased,10,05/25/2022
+794,Ninnekah,Recovered*,403,05/25/2022
+795,Noble,Active,12,05/25/2022
+796,Noble,Deceased,46,05/25/2022
+797,Noble,Recovered*,3554,05/25/2022
+798,Norge,Recovered*,1 to 4,05/25/2022
+799,Norman,Active,192,05/25/2022
+800,Norman,Deceased,324,05/25/2022
+801,Norman,Recovered*,35420,05/25/2022
+802,North Enid,Recovered*,1 to 4,05/25/2022
+803,North Miami,Recovered*,87,05/25/2022
+804,Nowata,Active,1 to 4,05/25/2022
+805,Nowata,Deceased,26,05/25/2022
+806,Nowata,Recovered*,1654,05/25/2022
+807,Oakland,Recovered*,11,05/25/2022
+808,Oaks,Active,1 to 4,05/25/2022
+809,Oaks,Deceased,1 to 4,05/25/2022
+810,Oaks,Recovered*,241,05/25/2022
+811,Oakwood,Deceased,1 to 4,05/25/2022
+812,Oakwood,Recovered*,52,05/25/2022
+813,Ochelata,Deceased,10,05/25/2022
+814,Ochelata,Recovered*,505,05/25/2022
+815,Oilton,Active,1 to 4,05/25/2022
+816,Oilton,Deceased,10,05/25/2022
+817,Oilton,Recovered*,260,05/25/2022
+818,Okarche,Active,1 to 4,05/25/2022
+819,Okarche,Deceased,7,05/25/2022
+820,Okarche,Recovered*,535,05/25/2022
+821,Okay,Deceased,1 to 4,05/25/2022
+822,Okay,Recovered*,165,05/25/2022
+823,Okeene,Deceased,6,05/25/2022
+824,Okeene,Recovered*,375,05/25/2022
+825,Okemah,Active,1 to 4,05/25/2022
+826,Okemah,Deceased,27,05/25/2022
+827,Okemah,Recovered*,1893,05/25/2022
+828,Oklahoma City,Active,505,05/25/2022
+829,Oklahoma City,Deceased,1968,05/25/2022
+830,Oklahoma City,Recovered*,140074,05/25/2022
+831,Oklahoma County,Recovered*,1 to 4,05/25/2022
+832,Okmulgee,Active,1 to 4,05/25/2022
+833,Okmulgee,Deceased,82,05/25/2022
+834,Okmulgee,Recovered*,4155,05/25/2022
+835,Oktaha,Deceased,10,05/25/2022
+836,Oktaha,Recovered*,361,05/25/2022
+837,Olustee,Recovered*,186,05/25/2022
+838,Oologah,Active,1 to 4,05/25/2022
+839,Oologah,Deceased,13,05/25/2022
+840,Oologah,Recovered*,1245,05/25/2022
+841,Optima,Active,1 to 4,05/25/2022
+842,Optima,Recovered*,62,05/25/2022
+843,Orlando,Deceased,1 to 4,05/25/2022
+844,Orlando,Recovered*,126,05/25/2022
+845,Osage,Deceased,1 to 4,05/25/2022
+846,Osage,Recovered*,112,05/25/2022
+847,Owasso,Active,45,05/25/2022
+848,Owasso,Deceased,163,05/25/2022
+849,Owasso,Recovered*,12610,05/25/2022
+850,Paden,Active,1 to 4,05/25/2022
+851,Paden,Deceased,1 to 4,05/25/2022
+852,Paden,Recovered*,393,05/25/2022
+853,Panama,Deceased,5,05/25/2022
+854,Panama,Recovered*,350,05/25/2022
+855,Paoli,Deceased,1 to 4,05/25/2022
+856,Paoli,Recovered*,383,05/25/2022
+857,Paradise Hill,Recovered*,1 to 4,05/25/2022
+858,Pauls Valley,Active,6,05/25/2022
+859,Pauls Valley,Deceased,58,05/25/2022
+860,Pauls Valley,Recovered*,2313,05/25/2022
+861,Pawhuska,Active,1 to 4,05/25/2022
+862,Pawhuska,Deceased,22,05/25/2022
+863,Pawhuska,Recovered*,1267,05/25/2022
+864,Pawnee,Deceased,31,05/25/2022
+865,Pawnee,Recovered*,1082,05/25/2022
+866,Pensacola,Recovered*,1 to 4,05/25/2022
+867,Peoria,Recovered*,21,05/25/2022
+868,Perkins,Active,1 to 4,05/25/2022
+869,Perkins,Deceased,10,05/25/2022
+870,Perkins,Recovered*,1260,05/25/2022
+871,Perry,Active,1 to 4,05/25/2022
+872,Perry,Deceased,26,05/25/2022
+873,Perry,Recovered*,1710,05/25/2022
+874,Phillips,Recovered*,1 to 4,05/25/2022
+875,Piedmont,Active,12,05/25/2022
+876,Piedmont,Deceased,14,05/25/2022
+877,Piedmont,Recovered*,3182,05/25/2022
+878,Pink,Recovered*,1 to 4,05/25/2022
+879,Pittsburg,Deceased,1 to 4,05/25/2022
+880,Pittsburg,Recovered*,168,05/25/2022
+881,Pocasset,Deceased,1 to 4,05/25/2022
+882,Pocasset,Recovered*,124,05/25/2022
+883,Pocola,Active,1 to 4,05/25/2022
+884,Pocola,Deceased,8,05/25/2022
+885,Pocola,Recovered*,978,05/25/2022
+886,Ponca City,Active,13,05/25/2022
+887,Ponca City,Deceased,147,05/25/2022
+888,Ponca City,Recovered*,8926,05/25/2022
+889,Pond Creek,Deceased,1 to 4,05/25/2022
+890,Pond Creek,Recovered*,242,05/25/2022
+891,Porter,Active,5,05/25/2022
+892,Porter,Deceased,18,05/25/2022
+893,Porter,Recovered*,722,05/25/2022
+894,Porum,Active,1 to 4,05/25/2022
+895,Porum,Deceased,10,05/25/2022
+896,Porum,Recovered*,585,05/25/2022
+897,Poteau,Active,1 to 4,05/25/2022
+898,Poteau,Deceased,32,05/25/2022
+899,Poteau,Recovered*,3419,05/25/2022
+900,Prague,Active,5,05/25/2022
+901,Prague,Deceased,21,05/25/2022
+902,Prague,Recovered*,1255,05/25/2022
+903,Prue,Active,1 to 4,05/25/2022
+904,Prue,Deceased,1 to 4,05/25/2022
+905,Prue,Recovered*,128,05/25/2022
+906,Pryor Creek,Active,1 to 4,05/25/2022
+907,Pryor Creek,Deceased,58,05/25/2022
+908,Pryor Creek,Recovered*,3050,05/25/2022
+909,Purcell,Active,5,05/25/2022
+910,Purcell,Deceased,43,05/25/2022
+911,Purcell,Recovered*,2928,05/25/2022
+912,Putnam,Deceased,1 to 4,05/25/2022
+913,Putnam,Recovered*,16,05/25/2022
+914,Quapaw,Active,1 to 4,05/25/2022
+915,Quapaw,Deceased,19,05/25/2022
+916,Quapaw,Recovered*,808,05/25/2022
+917,Quinton,Deceased,12,05/25/2022
+918,Quinton,Recovered*,449,05/25/2022
+919,Ralston,Deceased,1 to 4,05/25/2022
+920,Ralston,Recovered*,103,05/25/2022
+921,Ramona,Deceased,11,05/25/2022
+922,Ramona,Recovered*,533,05/25/2022
+923,Randlett,Active,1 to 4,05/25/2022
+924,Randlett,Deceased,1 to 4,05/25/2022
+925,Randlett,Recovered*,134,05/25/2022
+926,Ratliff City,Deceased,1 to 4,05/25/2022
+927,Ratliff City,Recovered*,208,05/25/2022
+928,Rattan,Deceased,1 to 4,05/25/2022
+929,Rattan,Recovered*,187,05/25/2022
+930,Ravia,Deceased,6,05/25/2022
+931,Ravia,Recovered*,181,05/25/2022
+932,Red Oak,Active,1 to 4,05/25/2022
+933,Red Oak,Deceased,1 to 4,05/25/2022
+934,Red Oak,Recovered*,404,05/25/2022
+935,Red Rock,Deceased,1 to 4,05/25/2022
+936,Red Rock,Recovered*,261,05/25/2022
+937,Redbird,Recovered*,26,05/25/2022
+938,Rentiesville,Recovered*,6,05/25/2022
+939,Reydon,Deceased,1 to 4,05/25/2022
+940,Reydon,Recovered*,125,05/25/2022
+941,Ringling,Deceased,6,05/25/2022
+942,Ringling,Recovered*,487,05/25/2022
+943,Ringwood,Deceased,1 to 4,05/25/2022
+944,Ringwood,Recovered*,362,05/25/2022
+945,Ripley,Deceased,1 to 4,05/25/2022
+946,Ripley,Recovered*,219,05/25/2022
+947,Rock Island,Recovered*,1 to 4,05/25/2022
+948,Rocky,Deceased,1 to 4,05/25/2022
+949,Rocky,Recovered*,113,05/25/2022
+950,Roff,Active,1 to 4,05/25/2022
+951,Roff,Deceased,5,05/25/2022
+952,Roff,Recovered*,497,05/25/2022
+953,Roland,Active,1 to 4,05/25/2022
+954,Roland,Deceased,8,05/25/2022
+955,Roland,Recovered*,1188,05/25/2022
+956,Roosevelt,Deceased,1 to 4,05/25/2022
+957,Roosevelt,Recovered*,116,05/25/2022
+958,Rosston,Active,1 to 4,05/25/2022
+959,Rosston,Recovered*,22,05/25/2022
+960,Rush Springs,Active,1 to 4,05/25/2022
+961,Rush Springs,Deceased,12,05/25/2022
+962,Rush Springs,Recovered*,602,05/25/2022
+963,Ryan,Deceased,1 to 4,05/25/2022
+964,Ryan,Recovered*,200,05/25/2022
+965,Salina,Active,7,05/25/2022
+966,Salina,Deceased,20,05/25/2022
+967,Salina,Recovered*,1547,05/25/2022
+968,Sallisaw,Active,9,05/25/2022
+969,Sallisaw,Deceased,37,05/25/2022
+970,Sallisaw,Recovered*,4078,05/25/2022
+971,Sand Springs,Active,23,05/25/2022
+972,Sand Springs,Deceased,127,05/25/2022
+973,Sand Springs,Recovered*,8188,05/25/2022
+974,Sapulpa,Active,25,05/25/2022
+975,Sapulpa,Deceased,137,05/25/2022
+976,Sapulpa,Recovered*,8399,05/25/2022
+977,Sasakwa,Deceased,1 to 4,05/25/2022
+978,Sasakwa,Recovered*,186,05/25/2022
+979,Savanna,Active,1 to 4,05/25/2022
+980,Savanna,Deceased,6,05/25/2022
+981,Savanna,Recovered*,174,05/25/2022
+982,Sawyer,Deceased,1 to 4,05/25/2022
+983,Sawyer,Recovered*,174,05/25/2022
+984,Sayre,Active,1 to 4,05/25/2022
+985,Sayre,Deceased,29,05/25/2022
+986,Sayre,Recovered*,1507,05/25/2022
+987,Schulter,Recovered*,91,05/25/2022
+988,Seiling,Deceased,11,05/25/2022
+989,Seiling,Recovered*,324,05/25/2022
+990,Seminole,Active,10,05/25/2022
+991,Seminole,Deceased,65,05/25/2022
+992,Seminole,Recovered*,3336,05/25/2022
+993,Sentinel,Deceased,6,05/25/2022
+994,Sentinel,Recovered*,255,05/25/2022
+995,Shady Point,Active,1 to 4,05/25/2022
+996,Shady Point,Deceased,1 to 4,05/25/2022
+997,Shady Point,Recovered*,431,05/25/2022
+998,Sharon,Active,1 to 4,05/25/2022
+999,Sharon,Deceased,1 to 4,05/25/2022
+1000,Sharon,Recovered*,106,05/25/2022
+1001,Shattuck,Active,22,05/25/2022
+1002,Shattuck,Deceased,1 to 4,05/25/2022
+1003,Shattuck,Recovered*,386,05/25/2022
+1004,Shawnee,Active,40,05/25/2022
+1005,Shawnee,Deceased,175,05/25/2022
+1006,Shawnee,Recovered*,12538,05/25/2022
+1007,Shidler,Deceased,1 to 4,05/25/2022
+1008,Shidler,Recovered*,148,05/25/2022
+1009,Silo,Recovered*,1 to 4,05/25/2022
+1010,Skedee,Deceased,1 to 4,05/25/2022
+1011,Skedee,Recovered*,11,05/25/2022
+1012,Skiatook,Active,1 to 4,05/25/2022
+1013,Skiatook,Deceased,50,05/25/2022
+1014,Skiatook,Recovered*,3986,05/25/2022
+1015,Slaughterville,Recovered*,5,05/25/2022
+1016,Slick,Deceased,1 to 4,05/25/2022
+1017,Slick,Recovered*,29,05/25/2022
+1018,Smith Village,Recovered*,1 to 4,05/25/2022
+1019,Snyder,Deceased,17,05/25/2022
+1020,Snyder,Recovered*,382,05/25/2022
+1021,Soper,Deceased,1 to 4,05/25/2022
+1022,Soper,Recovered*,312,05/25/2022
+1023,South Coffeyville,Deceased,1 to 4,05/25/2022
+1024,South Coffeyville,Recovered*,124,05/25/2022
+1025,Sparks,Deceased,1 to 4,05/25/2022
+1026,Sparks,Recovered*,139,05/25/2022
+1027,Spavinaw,Deceased,1 to 4,05/25/2022
+1028,Spavinaw,Recovered*,426,05/25/2022
+1029,Spencer,Active,1 to 4,05/25/2022
+1030,Spencer,Deceased,29,05/25/2022
+1031,Spencer,Recovered*,1383,05/25/2022
+1032,Sperry,Active,1 to 4,05/25/2022
+1033,Sperry,Deceased,10,05/25/2022
+1034,Sperry,Recovered*,1452,05/25/2022
+1035,Spiro,Active,1 to 4,05/25/2022
+1036,Spiro,Deceased,6,05/25/2022
+1037,Spiro,Recovered*,1557,05/25/2022
+1038,Sportsmen Acres,Recovered*,1 to 4,05/25/2022
+1039,Springer,Active,1 to 4,05/25/2022
+1040,Springer,Deceased,1 to 4,05/25/2022
+1041,Springer,Recovered*,230,05/25/2022
+1042,St. Louis,Deceased,1 to 4,05/25/2022
+1043,St. Louis,Recovered*,1 to 4,05/25/2022
+1044,Sterling,Deceased,1 to 4,05/25/2022
+1045,Sterling,Recovered*,178,05/25/2022
+1046,Stidham,Recovered*,1 to 4,05/25/2022
+1047,Stigler,Deceased,26,05/25/2022
+1048,Stigler,Recovered*,1711,05/25/2022
+1049,Stillwater,Active,63,05/25/2022
+1050,Stillwater,Deceased,90,05/25/2022
+1051,Stillwater,Recovered*,13095,05/25/2022
+1052,Stilwell,Active,11,05/25/2022
+1053,Stilwell,Deceased,53,05/25/2022
+1054,Stilwell,Recovered*,5181,05/25/2022
+1055,Stonewall,Active,1 to 4,05/25/2022
+1056,Stonewall,Deceased,8,05/25/2022
+1057,Stonewall,Recovered*,675,05/25/2022
+1058,Strang,Active,1 to 4,05/25/2022
+1059,Strang,Deceased,1 to 4,05/25/2022
+1060,Strang,Recovered*,153,05/25/2022
+1061,Stratford,Deceased,14,05/25/2022
+1062,Stratford,Recovered*,905,05/25/2022
+1063,Stringtown,Deceased,1 to 4,05/25/2022
+1064,Stringtown,Recovered*,202,05/25/2022
+1065,Strong City,Recovered*,8,05/25/2022
+1066,Stroud,Active,1 to 4,05/25/2022
+1067,Stroud,Deceased,19,05/25/2022
+1068,Stroud,Recovered*,997,05/25/2022
+1069,Stuart,Deceased,6,05/25/2022
+1070,Stuart,Recovered*,217,05/25/2022
+1071,Sulphur,Active,1 to 4,05/25/2022
+1072,Sulphur,Deceased,52,05/25/2022
+1073,Sulphur,Recovered*,2493,05/25/2022
+1074,Summit,Recovered*,1 to 4,05/25/2022
+1075,Sweetwater,Deceased,1 to 4,05/25/2022
+1076,Sweetwater,Recovered*,66,05/25/2022
+1077,Taft,Deceased,7,05/25/2022
+1078,Taft,Recovered*,1750,05/25/2022
+1079,Tahlequah,Active,41,05/25/2022
+1080,Tahlequah,Deceased,92,05/25/2022
+1081,Tahlequah,Recovered*,9916,05/25/2022
+1082,Talala,Active,1 to 4,05/25/2022
+1083,Talala,Deceased,8,05/25/2022
+1084,Talala,Recovered*,704,05/25/2022
+1085,Talihina,Active,5,05/25/2022
+1086,Talihina,Deceased,22,05/25/2022
+1087,Talihina,Recovered*,1243,05/25/2022
+1088,Taloga,Deceased,1 to 4,05/25/2022
+1089,Taloga,Recovered*,91,05/25/2022
+1090,Tatums,Recovered*,23,05/25/2022
+1091,Tecumseh,Active,9,05/25/2022
+1092,Tecumseh,Deceased,40,05/25/2022
+1093,Tecumseh,Recovered*,3263,05/25/2022
+1094,Temple,Deceased,13,05/25/2022
+1095,Temple,Recovered*,339,05/25/2022
+1096,Terlton,Active,1 to 4,05/25/2022
+1097,Terlton,Deceased,1 to 4,05/25/2022
+1098,Terlton,Recovered*,397,05/25/2022
+1099,Terral,Deceased,1 to 4,05/25/2022
+1100,Terral,Recovered*,97,05/25/2022
+1101,Texhoma,Recovered*,339,05/25/2022
+1102,Texola,Deceased,1 to 4,05/25/2022
+1103,Texola,Recovered*,8,05/25/2022
+1104,Thackerville,Deceased,1 to 4,05/25/2022
+1105,Thackerville,Recovered*,378,05/25/2022
+1106,The Village,Active,1 to 4,05/25/2022
+1107,The Village,Deceased,1 to 4,05/25/2022
+1108,The Village,Recovered*,321,05/25/2022
+1109,Thomas,Deceased,6,05/25/2022
+1110,Thomas,Recovered*,357,05/25/2022
+1111,Tipton,Active,1 to 4,05/25/2022
+1112,Tipton,Deceased,8,05/25/2022
+1113,Tipton,Recovered*,258,05/25/2022
+1114,Tishomingo,Active,1 to 4,05/25/2022
+1115,Tishomingo,Deceased,29,05/25/2022
+1116,Tishomingo,Recovered*,1335,05/25/2022
+1117,Tonkawa,Deceased,21,05/25/2022
+1118,Tonkawa,Recovered*,839,05/25/2022
+1119,Tribbey,Recovered*,1 to 4,05/25/2022
+1120,Tryon,Deceased,1 to 4,05/25/2022
+1121,Tryon,Recovered*,211,05/25/2022
+1122,Tullahassee,Recovered*,11,05/25/2022
+1123,Tulsa,Active,473,05/25/2022
+1124,Tulsa,Deceased,1410,05/25/2022
+1125,Tulsa,Recovered*,103830,05/25/2022
+1126,Tupelo,Active,1 to 4,05/25/2022
+1127,Tupelo,Deceased,1 to 4,05/25/2022
+1128,Tupelo,Recovered*,225,05/25/2022
+1129,Tushka,Recovered*,1 to 4,05/25/2022
+1130,Tuttle,Active,9,05/25/2022
+1131,Tuttle,Deceased,48,05/25/2022
+1132,Tuttle,Recovered*,3530,05/25/2022
+1133,Tyrone,Recovered*,186,05/25/2022
+1134,Union City,Deceased,1 to 4,05/25/2022
+1135,Union City,Recovered*,259,05/25/2022
+1136,Valley Park,Recovered*,1 to 4,05/25/2022
+1137,Valliant,Deceased,13,05/25/2022
+1138,Valliant,Recovered*,755,05/25/2022
+1139,Velma,Deceased,1 to 4,05/25/2022
+1140,Velma,Recovered*,184,05/25/2022
+1141,Vera,Recovered*,36,05/25/2022
+1142,Verden,Deceased,1 to 4,05/25/2022
+1143,Verden,Recovered*,201,05/25/2022
+1144,Verdigris,Recovered*,12,05/25/2022
+1145,Vian,Deceased,25,05/25/2022
+1146,Vian,Recovered*,1303,05/25/2022
+1147,Vici,Active,1 to 4,05/25/2022
+1148,Vici,Deceased,7,05/25/2022
+1149,Vici,Recovered*,265,05/25/2022
+1150,Vinita,Active,12,05/25/2022
+1151,Vinita,Deceased,42,05/25/2022
+1152,Vinita,Recovered*,3653,05/25/2022
+1153,Wagoner,Active,21,05/25/2022
+1154,Wagoner,Deceased,72,05/25/2022
+1155,Wagoner,Recovered*,3722,05/25/2022
+1156,Wainwright,Deceased,1 to 4,05/25/2022
+1157,Wainwright,Recovered*,37,05/25/2022
+1158,Wakita,Deceased,6,05/25/2022
+1159,Wakita,Recovered*,98,05/25/2022
+1160,Walters,Deceased,14,05/25/2022
+1161,Walters,Recovered*,889,05/25/2022
+1162,Wanette,Deceased,1 to 4,05/25/2022
+1163,Wanette,Recovered*,331,05/25/2022
+1164,Wann,Deceased,1 to 4,05/25/2022
+1165,Wann,Recovered*,199,05/25/2022
+1166,Wapanucka,Active,1 to 4,05/25/2022
+1167,Wapanucka,Deceased,1 to 4,05/25/2022
+1168,Wapanucka,Recovered*,150,05/25/2022
+1169,Warner,Active,1 to 4,05/25/2022
+1170,Warner,Deceased,16,05/25/2022
+1171,Warner,Recovered*,677,05/25/2022
+1172,Warr Acres,Active,7,05/25/2022
+1173,Warr Acres,Deceased,15,05/25/2022
+1174,Warr Acres,Recovered*,1529,05/25/2022
+1175,Washington,Active,1 to 4,05/25/2022
+1176,Washington,Deceased,9,05/25/2022
+1177,Washington,Recovered*,811,05/25/2022
+1178,Watonga,Deceased,15,05/25/2022
+1179,Watonga,Recovered*,1069,05/25/2022
+1180,Watts,Active,1 to 4,05/25/2022
+1181,Watts,Deceased,13,05/25/2022
+1182,Watts,Recovered*,604,05/25/2022
+1183,Waukomis,Deceased,1 to 4,05/25/2022
+1184,Waukomis,Recovered*,408,05/25/2022
+1185,Waurika,Active,1 to 4,05/25/2022
+1186,Waurika,Deceased,13,05/25/2022
+1187,Waurika,Recovered*,527,05/25/2022
+1188,Wayne,Active,1 to 4,05/25/2022
+1189,Wayne,Deceased,6,05/25/2022
+1190,Wayne,Recovered*,532,05/25/2022
+1191,Waynoka,Recovered*,226,05/25/2022
+1192,Weatherford,Active,7,05/25/2022
+1193,Weatherford,Deceased,54,05/25/2022
+1194,Weatherford,Recovered*,3516,05/25/2022
+1195,Webbers Falls,Active,1 to 4,05/25/2022
+1196,Webbers Falls,Deceased,1 to 4,05/25/2022
+1197,Webbers Falls,Recovered*,297,05/25/2022
+1198,Welch,Active,1 to 4,05/25/2022
+1199,Welch,Deceased,8,05/25/2022
+1200,Welch,Recovered*,455,05/25/2022
+1201,Weleetka,Deceased,17,05/25/2022
+1202,Weleetka,Recovered*,425,05/25/2022
+1203,Wellston,Deceased,19,05/25/2022
+1204,Wellston,Recovered*,1022,05/25/2022
+1205,West Siloam Springs,Recovered*,1 to 4,05/25/2022
+1206,Westville,Active,7,05/25/2022
+1207,Westville,Deceased,8,05/25/2022
+1208,Westville,Recovered*,1586,05/25/2022
+1209,Wetumka,Deceased,11,05/25/2022
+1210,Wetumka,Recovered*,517,05/25/2022
+1211,Wewoka,Deceased,46,05/25/2022
+1212,Wewoka,Recovered*,1423,05/25/2022
+1213,Whitefield,Deceased,1 to 4,05/25/2022
+1214,Whitefield,Recovered*,97,05/25/2022
+1215,Wilburton,Deceased,25,05/25/2022
+1216,Wilburton,Recovered*,1410,05/25/2022
+1217,Willow,Recovered*,69,05/25/2022
+1218,Wilson,Active,1 to 4,05/25/2022
+1219,Wilson,Deceased,22,05/25/2022
+1220,Wilson,Recovered*,858,05/25/2022
+1221,Wister,Active,1 to 4,05/25/2022
+1222,Wister,Deceased,1 to 4,05/25/2022
+1223,Wister,Recovered*,938,05/25/2022
+1224,Woodlawn Park,Recovered*,1 to 4,05/25/2022
+1225,Woodward,Active,1 to 4,05/25/2022
+1226,Woodward,Deceased,61,05/25/2022
+1227,Woodward,Recovered*,3475,05/25/2022
+1228,Wright City,Deceased,6,05/25/2022
+1229,Wright City,Recovered*,399,05/25/2022
+1230,Wyandotte,Active,1 to 4,05/25/2022
+1231,Wyandotte,Deceased,12,05/25/2022
+1232,Wyandotte,Recovered*,847,05/25/2022
+1233,Wynnewood,Active,1 to 4,05/25/2022
+1234,Wynnewood,Deceased,23,05/25/2022
+1235,Wynnewood,Recovered*,1011,05/25/2022
+1236,Wynona,Deceased,1 to 4,05/25/2022
+1237,Wynona,Recovered*,114,05/25/2022
+1238,Yale,Active,1 to 4,05/25/2022
+1239,Yale,Deceased,14,05/25/2022
+1240,Yale,Recovered*,475,05/25/2022
+1241,Yeager,Recovered*,1 to 4,05/25/2022
+1242,Yukon,Active,99,05/25/2022
+1243,Yukon,Deceased,193,05/25/2022
+1244,Yukon,Recovered*,21710,05/25/2022

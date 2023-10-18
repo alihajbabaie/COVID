@@ -1,0 +1,1420 @@
+,City,status,Number,rpt_date
+0,,Active,248,01/04/2023
+1,,Deceased,401,01/04/2023
+2,,Recovered*,35163,01/04/2023
+3,Achille,Active,1 to 4,01/04/2023
+4,Achille,Deceased,1 to 4,01/04/2023
+5,Achille,Recovered*,136,01/04/2023
+6,Ada,Active,134,01/04/2023
+7,Ada,Deceased,136,01/04/2023
+8,Ada,Recovered*,12925,01/04/2023
+9,Adair,Active,1 to 4,01/04/2023
+10,Adair,Deceased,5,01/04/2023
+11,Adair,Recovered*,865,01/04/2023
+12,Addington,Deceased,1 to 4,01/04/2023
+13,Addington,Recovered*,15,01/04/2023
+14,Afton,Active,11,01/04/2023
+15,Afton,Deceased,16,01/04/2023
+16,Afton,Recovered*,1703,01/04/2023
+17,Agra,Active,1 to 4,01/04/2023
+18,Agra,Deceased,1 to 4,01/04/2023
+19,Agra,Recovered*,291,01/04/2023
+20,Albion,Recovered*,41,01/04/2023
+21,Alderson,Deceased,1 to 4,01/04/2023
+22,Alderson,Recovered*,119,01/04/2023
+23,Alex,Active,1 to 4,01/04/2023
+24,Alex,Deceased,8,01/04/2023
+25,Alex,Recovered*,320,01/04/2023
+26,Aline,Active,1 to 4,01/04/2023
+27,Aline,Deceased,1 to 4,01/04/2023
+28,Aline,Recovered*,138,01/04/2023
+29,Allen,Active,5,01/04/2023
+30,Allen,Deceased,6,01/04/2023
+31,Allen,Recovered*,689,01/04/2023
+32,Altus,Active,38,01/04/2023
+33,Altus,Deceased,95,01/04/2023
+34,Altus,Recovered*,6462,01/04/2023
+35,Alva,Active,12,01/04/2023
+36,Alva,Deceased,40,01/04/2023
+37,Alva,Recovered*,2148,01/04/2023
+38,Amber,Active,1 to 4,01/04/2023
+39,Amber,Deceased,8,01/04/2023
+40,Amber,Recovered*,271,01/04/2023
+41,Ames,Active,1 to 4,01/04/2023
+42,Ames,Recovered*,142,01/04/2023
+43,Amorita,Recovered*,33,01/04/2023
+44,Anadarko,Active,18,01/04/2023
+45,Anadarko,Deceased,64,01/04/2023
+46,Anadarko,Recovered*,3613,01/04/2023
+47,Antlers,Active,12,01/04/2023
+48,Antlers,Deceased,28,01/04/2023
+49,Antlers,Recovered*,1681,01/04/2023
+50,Apache,Active,6,01/04/2023
+51,Apache,Deceased,14,01/04/2023
+52,Apache,Recovered*,1184,01/04/2023
+53,Arapaho,Active,5,01/04/2023
+54,Arapaho,Deceased,5,01/04/2023
+55,Arapaho,Recovered*,347,01/04/2023
+56,Arcadia,Active,6,01/04/2023
+57,Arcadia,Deceased,1 to 4,01/04/2023
+58,Arcadia,Recovered*,951,01/04/2023
+59,Ardmore,Active,292,01/04/2023
+60,Ardmore,Deceased,175,01/04/2023
+61,Ardmore,Recovered*,13864,01/04/2023
+62,Arkoma,Deceased,1 to 4,01/04/2023
+63,Arkoma,Recovered*,432,01/04/2023
+64,Arnett,Deceased,1 to 4,01/04/2023
+65,Arnett,Recovered*,178,01/04/2023
+66,Asher,Deceased,6,01/04/2023
+67,Asher,Recovered*,353,01/04/2023
+68,Atoka,Active,18,01/04/2023
+69,Atoka,Deceased,42,01/04/2023
+70,Atoka,Recovered*,3425,01/04/2023
+71,Atwood,Deceased,1 to 4,01/04/2023
+72,Atwood,Recovered*,88,01/04/2023
+73,Avant,Active,1 to 4,01/04/2023
+74,Avant,Deceased,1 to 4,01/04/2023
+75,Avant,Recovered*,73,01/04/2023
+76,Barnsdall,Active,6,01/04/2023
+77,Barnsdall,Deceased,12,01/04/2023
+78,Barnsdall,Recovered*,639,01/04/2023
+79,Bartlesville,Active,88,01/04/2023
+80,Bartlesville,Deceased,219,01/04/2023
+81,Bartlesville,Recovered*,11537,01/04/2023
+82,Bearden,Recovered*,1 to 4,01/04/2023
+83,Beaver,Active,1 to 4,01/04/2023
+84,Beaver,Deceased,7,01/04/2023
+85,Beaver,Recovered*,561,01/04/2023
+86,Beggs,Active,7,01/04/2023
+87,Beggs,Deceased,13,01/04/2023
+88,Beggs,Recovered*,1368,01/04/2023
+89,Bennington,Active,6,01/04/2023
+90,Bennington,Deceased,6,01/04/2023
+91,Bennington,Recovered*,436,01/04/2023
+92,Bernice,Active,1 to 4,01/04/2023
+93,Bernice,Deceased,1 to 4,01/04/2023
+94,Bernice,Recovered*,139,01/04/2023
+95,Bessie,Deceased,1 to 4,01/04/2023
+96,Bessie,Recovered*,74,01/04/2023
+97,Bethany,Active,36,01/04/2023
+98,Bethany,Deceased,75,01/04/2023
+99,Bethany,Recovered*,5705,01/04/2023
+100,Bethel Acres,Recovered*,13,01/04/2023
+101,Big Cabin,Active,1 to 4,01/04/2023
+102,Big Cabin,Deceased,8,01/04/2023
+103,Big Cabin,Recovered*,599,01/04/2023
+104,Billings,Deceased,5,01/04/2023
+105,Billings,Recovered*,323,01/04/2023
+106,Binger,Deceased,17,01/04/2023
+107,Binger,Recovered*,408,01/04/2023
+108,Bixby,Active,67,01/04/2023
+109,Bixby,Deceased,80,01/04/2023
+110,Bixby,Recovered*,10413,01/04/2023
+111,Blackburn,Recovered*,15,01/04/2023
+112,Blackwell,Active,9,01/04/2023
+113,Blackwell,Deceased,44,01/04/2023
+114,Blackwell,Recovered*,1783,01/04/2023
+115,Blair,Active,1 to 4,01/04/2023
+116,Blair,Deceased,8,01/04/2023
+117,Blair,Recovered*,659,01/04/2023
+118,Blanchard,Active,45,01/04/2023
+119,Blanchard,Deceased,69,01/04/2023
+120,Blanchard,Recovered*,6591,01/04/2023
+121,Bluejacket,Active,1 to 4,01/04/2023
+122,Bluejacket,Deceased,1 to 4,01/04/2023
+123,Bluejacket,Recovered*,394,01/04/2023
+124,Boise City,Active,1 to 4,01/04/2023
+125,Boise City,Deceased,7,01/04/2023
+126,Boise City,Recovered*,474,01/04/2023
+127,Bokchito,Active,6,01/04/2023
+128,Bokchito,Deceased,1 to 4,01/04/2023
+129,Bokchito,Recovered*,676,01/04/2023
+130,Bokoshe,Active,6,01/04/2023
+131,Bokoshe,Deceased,5,01/04/2023
+132,Bokoshe,Recovered*,602,01/04/2023
+133,Boley,Active,1 to 4,01/04/2023
+134,Boley,Deceased,11,01/04/2023
+135,Boley,Recovered*,648,01/04/2023
+136,Boswell,Active,5,01/04/2023
+137,Boswell,Deceased,6,01/04/2023
+138,Boswell,Recovered*,716,01/04/2023
+139,Bowlegs,Active,1 to 4,01/04/2023
+140,Bowlegs,Deceased,1 to 4,01/04/2023
+141,Bowlegs,Recovered*,44,01/04/2023
+142,Boynton,Deceased,1 to 4,01/04/2023
+143,Boynton,Recovered*,183,01/04/2023
+144,Bradley,Deceased,1 to 4,01/04/2023
+145,Bradley,Recovered*,98,01/04/2023
+146,Braggs,Active,6,01/04/2023
+147,Braggs,Deceased,1 to 4,01/04/2023
+148,Braggs,Recovered*,301,01/04/2023
+149,Braman,Deceased,1 to 4,01/04/2023
+150,Braman,Recovered*,97,01/04/2023
+151,Bray,Recovered*,5,01/04/2023
+152,Bridge Creek,Recovered*,1 to 4,01/04/2023
+153,Bridgeport,Recovered*,1 to 4,01/04/2023
+154,Bristow,Active,14,01/04/2023
+155,Bristow,Deceased,62,01/04/2023
+156,Bristow,Recovered*,2678,01/04/2023
+157,Broken Arrow,Active,297,01/04/2023
+158,Broken Arrow,Deceased,453,01/04/2023
+159,Broken Arrow,Recovered*,45670,01/04/2023
+160,Broken Bow,Active,12,01/04/2023
+161,Broken Bow,Deceased,65,01/04/2023
+162,Broken Bow,Recovered*,3035,01/04/2023
+163,Bromide,Deceased,1 to 4,01/04/2023
+164,Bromide,Recovered*,62,01/04/2023
+165,Buffalo,Active,1 to 4,01/04/2023
+166,Buffalo,Deceased,7,01/04/2023
+167,Buffalo,Recovered*,309,01/04/2023
+168,Burbank,Active,1 to 4,01/04/2023
+169,Burbank,Deceased,1 to 4,01/04/2023
+170,Burbank,Recovered*,117,01/04/2023
+171,Burlington,Active,1 to 4,01/04/2023
+172,Burlington,Deceased,1 to 4,01/04/2023
+173,Burlington,Recovered*,64,01/04/2023
+174,Burns Flat,Active,6,01/04/2023
+175,Burns Flat,Deceased,7,01/04/2023
+176,Burns Flat,Recovered*,411,01/04/2023
+177,Butler,Deceased,1 to 4,01/04/2023
+178,Butler,Recovered*,124,01/04/2023
+179,Byars,Deceased,1 to 4,01/04/2023
+180,Byars,Recovered*,267,01/04/2023
+181,Byng,Recovered*,10,01/04/2023
+182,Byron,Recovered*,6,01/04/2023
+183,Cache,Active,17,01/04/2023
+184,Cache,Deceased,15,01/04/2023
+185,Cache,Recovered*,1796,01/04/2023
+186,Caddo,Active,12,01/04/2023
+187,Caddo,Deceased,6,01/04/2023
+188,Caddo,Recovered*,873,01/04/2023
+189,Calera,Active,19,01/04/2023
+190,Calera,Deceased,19,01/04/2023
+191,Calera,Recovered*,2088,01/04/2023
+192,Calumet,Deceased,5,01/04/2023
+193,Calumet,Recovered*,389,01/04/2023
+194,Calvin,Deceased,1 to 4,01/04/2023
+195,Calvin,Recovered*,190,01/04/2023
+196,Camargo,Deceased,1 to 4,01/04/2023
+197,Camargo,Recovered*,51,01/04/2023
+198,Cameron,Active,5,01/04/2023
+199,Cameron,Deceased,1 to 4,01/04/2023
+200,Cameron,Recovered*,625,01/04/2023
+201,Canadian,Deceased,6,01/04/2023
+202,Canadian,Recovered*,249,01/04/2023
+203,Caney,Active,1 to 4,01/04/2023
+204,Caney,Deceased,1 to 4,01/04/2023
+205,Caney,Recovered*,276,01/04/2023
+206,Canton,Active,5,01/04/2023
+207,Canton,Deceased,6,01/04/2023
+208,Canton,Recovered*,386,01/04/2023
+209,Canute,Active,8,01/04/2023
+210,Canute,Deceased,6,01/04/2023
+211,Canute,Recovered*,352,01/04/2023
+212,Carlton Landing,Recovered*,1 to 4,01/04/2023
+213,Carmen,Deceased,1 to 4,01/04/2023
+214,Carmen,Recovered*,105,01/04/2023
+215,Carnegie,Active,1 to 4,01/04/2023
+216,Carnegie,Deceased,37,01/04/2023
+217,Carnegie,Recovered*,1045,01/04/2023
+218,Carney,Active,1 to 4,01/04/2023
+219,Carney,Deceased,1 to 4,01/04/2023
+220,Carney,Recovered*,234,01/04/2023
+221,Carrier,Recovered*,57,01/04/2023
+222,Carter,Deceased,1 to 4,01/04/2023
+223,Carter,Recovered*,132,01/04/2023
+224,Cashion,Active,6,01/04/2023
+225,Cashion,Deceased,1 to 4,01/04/2023
+226,Cashion,Recovered*,588,01/04/2023
+227,Castle,Active,1 to 4,01/04/2023
+228,Castle,Deceased,1 to 4,01/04/2023
+229,Castle,Recovered*,169,01/04/2023
+230,Catoosa,Active,13,01/04/2023
+231,Catoosa,Deceased,31,01/04/2023
+232,Catoosa,Recovered*,2496,01/04/2023
+233,Cement,Active,1 to 4,01/04/2023
+234,Cement,Deceased,1 to 4,01/04/2023
+235,Cement,Recovered*,521,01/04/2023
+236,Centrahoma,Deceased,1 to 4,01/04/2023
+237,Centrahoma,Recovered*,96,01/04/2023
+238,Central High,Recovered*,5,01/04/2023
+239,Chandler,Active,24,01/04/2023
+240,Chandler,Deceased,34,01/04/2023
+241,Chandler,Recovered*,2054,01/04/2023
+242,Chattanooga,Deceased,1 to 4,01/04/2023
+243,Chattanooga,Recovered*,205,01/04/2023
+244,Checotah,Active,10,01/04/2023
+245,Checotah,Deceased,55,01/04/2023
+246,Checotah,Recovered*,2047,01/04/2023
+247,Chelsea,Active,22,01/04/2023
+248,Chelsea,Deceased,33,01/04/2023
+249,Chelsea,Recovered*,1772,01/04/2023
+250,Cherokee,Active,1 to 4,01/04/2023
+251,Cherokee,Deceased,1 to 4,01/04/2023
+252,Cherokee,Recovered*,505,01/04/2023
+253,Cheyenne,Active,1 to 4,01/04/2023
+254,Cheyenne,Deceased,6,01/04/2023
+255,Cheyenne,Recovered*,492,01/04/2023
+256,Chickasha,Active,30,01/04/2023
+257,Chickasha,Deceased,131,01/04/2023
+258,Chickasha,Recovered*,6249,01/04/2023
+259,Choctaw,Active,80,01/04/2023
+260,Choctaw,Deceased,82,01/04/2023
+261,Choctaw,Recovered*,6913,01/04/2023
+262,Chouteau,Active,11,01/04/2023
+263,Chouteau,Deceased,36,01/04/2023
+264,Chouteau,Recovered*,1359,01/04/2023
+265,Claremore,Active,149,01/04/2023
+266,Claremore,Deceased,247,01/04/2023
+267,Claremore,Recovered*,16615,01/04/2023
+268,Clayton,Active,6,01/04/2023
+269,Clayton,Deceased,7,01/04/2023
+270,Clayton,Recovered*,496,01/04/2023
+271,Clearview,Recovered*,6,01/04/2023
+272,Cleo Springs,Active,1 to 4,01/04/2023
+273,Cleo Springs,Deceased,1 to 4,01/04/2023
+274,Cleo Springs,Recovered*,176,01/04/2023
+275,Cleveland,Active,15,01/04/2023
+276,Cleveland,Deceased,35,01/04/2023
+277,Cleveland,Recovered*,2132,01/04/2023
+278,Clinton,Active,25,01/04/2023
+279,Clinton,Deceased,100,01/04/2023
+280,Clinton,Recovered*,3843,01/04/2023
+281,Coalgate,Active,27,01/04/2023
+282,Coalgate,Deceased,18,01/04/2023
+283,Coalgate,Recovered*,1467,01/04/2023
+284,Colbert,Active,13,01/04/2023
+285,Colbert,Deceased,12,01/04/2023
+286,Colbert,Recovered*,868,01/04/2023
+287,Colcord,Active,1 to 4,01/04/2023
+288,Colcord,Deceased,15,01/04/2023
+289,Colcord,Recovered*,1426,01/04/2023
+290,Cole,Recovered*,1 to 4,01/04/2023
+291,Collinsville,Active,40,01/04/2023
+292,Collinsville,Deceased,82,01/04/2023
+293,Collinsville,Recovered*,6681,01/04/2023
+294,Colony,Active,1 to 4,01/04/2023
+295,Colony,Deceased,1 to 4,01/04/2023
+296,Colony,Recovered*,87,01/04/2023
+297,Comanche,Active,11,01/04/2023
+298,Comanche,Deceased,26,01/04/2023
+299,Comanche,Recovered*,1392,01/04/2023
+300,Commerce,Active,8,01/04/2023
+301,Commerce,Deceased,14,01/04/2023
+302,Commerce,Recovered*,929,01/04/2023
+303,Copan,Active,1 to 4,01/04/2023
+304,Copan,Deceased,9,01/04/2023
+305,Copan,Recovered*,444,01/04/2023
+306,Corn,Active,1 to 4,01/04/2023
+307,Corn,Deceased,10,01/04/2023
+308,Corn,Recovered*,174,01/04/2023
+309,Cornish,Active,1 to 4,01/04/2023
+310,Cornish,Recovered*,1 to 4,01/04/2023
+311,Council Hill,Active,1 to 4,01/04/2023
+312,Council Hill,Deceased,7,01/04/2023
+313,Council Hill,Recovered*,257,01/04/2023
+314,Covington,Active,1 to 4,01/04/2023
+315,Covington,Deceased,1 to 4,01/04/2023
+316,Covington,Recovered*,152,01/04/2023
+317,Coweta,Active,21,01/04/2023
+318,Coweta,Deceased,74,01/04/2023
+319,Coweta,Recovered*,5490,01/04/2023
+320,Cowlington,Recovered*,8,01/04/2023
+321,Coyle,Active,1 to 4,01/04/2023
+322,Coyle,Deceased,1 to 4,01/04/2023
+323,Coyle,Recovered*,246,01/04/2023
+324,Crescent,Active,12,01/04/2023
+325,Crescent,Deceased,13,01/04/2023
+326,Crescent,Recovered*,794,01/04/2023
+327,Cromwell,Deceased,1 to 4,01/04/2023
+328,Cromwell,Recovered*,66,01/04/2023
+329,Crowder,Active,1 to 4,01/04/2023
+330,Crowder,Recovered*,163,01/04/2023
+331,Cushing,Active,35,01/04/2023
+332,Cushing,Deceased,49,01/04/2023
+333,Cushing,Recovered*,3515,01/04/2023
+334,Custer City,Deceased,7,01/04/2023
+335,Custer City,Recovered*,181,01/04/2023
+336,Cyril,Active,1 to 4,01/04/2023
+337,Cyril,Deceased,7,01/04/2023
+338,Cyril,Recovered*,475,01/04/2023
+339,Dacoma,Recovered*,51,01/04/2023
+340,Davenport,Active,1 to 4,01/04/2023
+341,Davenport,Deceased,1 to 4,01/04/2023
+342,Davenport,Recovered*,277,01/04/2023
+343,Davidson,Recovered*,63,01/04/2023
+344,Davis,Active,8,01/04/2023
+345,Davis,Deceased,24,01/04/2023
+346,Davis,Recovered*,1786,01/04/2023
+347,Deer Creek,Active,1 to 4,01/04/2023
+348,Deer Creek,Deceased,1 to 4,01/04/2023
+349,Deer Creek,Recovered*,82,01/04/2023
+350,Del City,Active,43,01/04/2023
+351,Del City,Deceased,51,01/04/2023
+352,Del City,Recovered*,3381,01/04/2023
+353,Delaware,Active,1 to 4,01/04/2023
+354,Delaware,Deceased,5,01/04/2023
+355,Delaware,Recovered*,306,01/04/2023
+356,Delaware County,Recovered*,1 to 4,01/04/2023
+357,Depew,Active,1 to 4,01/04/2023
+358,Depew,Deceased,8,01/04/2023
+359,Depew,Recovered*,438,01/04/2023
+360,Devol,Deceased,1 to 4,01/04/2023
+361,Devol,Recovered*,79,01/04/2023
+362,Dewar,Deceased,1 to 4,01/04/2023
+363,Dewar,Recovered*,213,01/04/2023
+364,Dewey,Active,7,01/04/2023
+365,Dewey,Deceased,27,01/04/2023
+366,Dewey,Recovered*,1463,01/04/2023
+367,Dibble,Active,1 to 4,01/04/2023
+368,Dibble,Recovered*,63,01/04/2023
+369,Dickson,Recovered*,5,01/04/2023
+370,Dill City,Active,1 to 4,01/04/2023
+371,Dill City,Deceased,7,01/04/2023
+372,Dill City,Recovered*,166,01/04/2023
+373,Disney,Deceased,1 to 4,01/04/2023
+374,Disney,Recovered*,146,01/04/2023
+375,Dougherty,Deceased,1 to 4,01/04/2023
+376,Dougherty,Recovered*,55,01/04/2023
+377,Douglas,Deceased,1 to 4,01/04/2023
+378,Douglas,Recovered*,48,01/04/2023
+379,Dover,Active,1 to 4,01/04/2023
+380,Dover,Deceased,1 to 4,01/04/2023
+381,Dover,Recovered*,217,01/04/2023
+382,Drummond,Active,1 to 4,01/04/2023
+383,Drummond,Deceased,1 to 4,01/04/2023
+384,Drummond,Recovered*,172,01/04/2023
+385,Drumright,Active,7,01/04/2023
+386,Drumright,Deceased,19,01/04/2023
+387,Drumright,Recovered*,963,01/04/2023
+388,Duncan,Active,36,01/04/2023
+389,Duncan,Deceased,137,01/04/2023
+390,Duncan,Recovered*,8348,01/04/2023
+391,Durant,Active,132,01/04/2023
+392,Durant,Deceased,86,01/04/2023
+393,Durant,Recovered*,9619,01/04/2023
+394,Dustin,Deceased,7,01/04/2023
+395,Dustin,Recovered*,177,01/04/2023
+396,Eakly,Deceased,1 to 4,01/04/2023
+397,Eakly,Recovered*,92,01/04/2023
+398,Earlsboro,Active,1 to 4,01/04/2023
+399,Earlsboro,Deceased,9,01/04/2023
+400,Earlsboro,Recovered*,701,01/04/2023
+401,East Duke,Recovered*,1 to 4,01/04/2023
+402,Edmond,Active,311,01/04/2023
+403,Edmond,Deceased,383,01/04/2023
+404,Edmond,Recovered*,53570,01/04/2023
+405,El Reno,Active,34,01/04/2023
+406,El Reno,Deceased,82,01/04/2023
+407,El Reno,Recovered*,5876,01/04/2023
+408,Eldorado,Active,1 to 4,01/04/2023
+409,Eldorado,Deceased,1 to 4,01/04/2023
+410,Eldorado,Recovered*,102,01/04/2023
+411,Elgin,Active,9,01/04/2023
+412,Elgin,Deceased,17,01/04/2023
+413,Elgin,Recovered*,2105,01/04/2023
+414,Elk City,Active,53,01/04/2023
+415,Elk City,Deceased,69,01/04/2023
+416,Elk City,Recovered*,4646,01/04/2023
+417,Elmer,Active,1 to 4,01/04/2023
+418,Elmer,Recovered*,47,01/04/2023
+419,Elmore City,Active,6,01/04/2023
+420,Elmore City,Deceased,9,01/04/2023
+421,Elmore City,Recovered*,777,01/04/2023
+422,Empire City,Recovered*,1 to 4,01/04/2023
+423,Enid,Active,87,01/04/2023
+424,Enid,Deceased,280,01/04/2023
+425,Enid,Recovered*,15350,01/04/2023
+426,Erick,Active,1 to 4,01/04/2023
+427,Erick,Deceased,1 to 4,01/04/2023
+428,Erick,Recovered*,338,01/04/2023
+429,Etowah,Recovered*,1 to 4,01/04/2023
+430,Eufaula,Active,15,01/04/2023
+431,Eufaula,Deceased,71,01/04/2023
+432,Eufaula,Recovered*,2560,01/04/2023
+433,Fair Oaks,Recovered*,1 to 4,01/04/2023
+434,Fairfax,Active,7,01/04/2023
+435,Fairfax,Deceased,16,01/04/2023
+436,Fairfax,Recovered*,605,01/04/2023
+437,Fairland,Active,5,01/04/2023
+438,Fairland,Deceased,11,01/04/2023
+439,Fairland,Recovered*,960,01/04/2023
+440,Fairmont,Active,1 to 4,01/04/2023
+441,Fairmont,Deceased,1 to 4,01/04/2023
+442,Fairmont,Recovered*,106,01/04/2023
+443,Fairview,Active,18,01/04/2023
+444,Fairview,Deceased,28,01/04/2023
+445,Fairview,Recovered*,1234,01/04/2023
+446,Fanshawe,Recovered*,30,01/04/2023
+447,Fargo,Active,1 to 4,01/04/2023
+448,Fargo,Deceased,1 to 4,01/04/2023
+449,Fargo,Recovered*,154,01/04/2023
+450,Faxon,Recovered*,125,01/04/2023
+451,Fitzhugh,Active,1 to 4,01/04/2023
+452,Fitzhugh,Recovered*,88,01/04/2023
+453,Fletcher,Active,5,01/04/2023
+454,Fletcher,Deceased,9,01/04/2023
+455,Fletcher,Recovered*,887,01/04/2023
+456,Foraker,Recovered*,1 to 4,01/04/2023
+457,Forest Park,Recovered*,50,01/04/2023
+458,Forgan,Deceased,1 to 4,01/04/2023
+459,Forgan,Recovered*,152,01/04/2023
+460,Fort Cobb,Active,1 to 4,01/04/2023
+461,Fort Cobb,Deceased,10,01/04/2023
+462,Fort Cobb,Recovered*,556,01/04/2023
+463,Fort Coffee,Recovered*,1 to 4,01/04/2023
+464,Fort Gibson,Active,23,01/04/2023
+465,Fort Gibson,Deceased,34,01/04/2023
+466,Fort Gibson,Recovered*,3008,01/04/2023
+467,Fort Supply,Deceased,1 to 4,01/04/2023
+468,Fort Supply,Recovered*,972,01/04/2023
+469,Fort Towson,Active,1 to 4,01/04/2023
+470,Fort Towson,Deceased,8,01/04/2023
+471,Fort Towson,Recovered*,390,01/04/2023
+472,Foss,Active,7,01/04/2023
+473,Foss,Deceased,1 to 4,01/04/2023
+474,Foss,Recovered*,323,01/04/2023
+475,Foster,Active,1 to 4,01/04/2023
+476,Foster,Recovered*,158,01/04/2023
+477,Foyil,Deceased,1 to 4,01/04/2023
+478,Foyil,Recovered*,68,01/04/2023
+479,Francis,Active,1 to 4,01/04/2023
+480,Francis,Deceased,1 to 4,01/04/2023
+481,Francis,Recovered*,129,01/04/2023
+482,Frederick,Active,1 to 4,01/04/2023
+483,Frederick,Deceased,23,01/04/2023
+484,Frederick,Recovered*,1019,01/04/2023
+485,Freedom,Deceased,1 to 4,01/04/2023
+486,Freedom,Recovered*,99,01/04/2023
+487,Gage,Active,1 to 4,01/04/2023
+488,Gage,Deceased,1 to 4,01/04/2023
+489,Gage,Recovered*,152,01/04/2023
+490,Gans,Active,1 to 4,01/04/2023
+491,Gans,Deceased,1 to 4,01/04/2023
+492,Gans,Recovered*,315,01/04/2023
+493,Garber,Active,1 to 4,01/04/2023
+494,Garber,Deceased,1 to 4,01/04/2023
+495,Garber,Recovered*,291,01/04/2023
+496,Garvin,Active,1 to 4,01/04/2023
+497,Garvin,Deceased,1 to 4,01/04/2023
+498,Garvin,Recovered*,323,01/04/2023
+499,Gate,Recovered*,41,01/04/2023
+500,Geary,Active,1 to 4,01/04/2023
+501,Geary,Deceased,12,01/04/2023
+502,Geary,Recovered*,447,01/04/2023
+503,Gene Autry,Deceased,1 to 4,01/04/2023
+504,Gene Autry,Recovered*,33,01/04/2023
+505,Geronimo,Active,1 to 4,01/04/2023
+506,Geronimo,Deceased,5,01/04/2023
+507,Geronimo,Recovered*,518,01/04/2023
+508,Glencoe,Active,1 to 4,01/04/2023
+509,Glencoe,Deceased,6,01/04/2023
+510,Glencoe,Recovered*,535,01/04/2023
+511,Glenpool,Active,41,01/04/2023
+512,Glenpool,Deceased,56,01/04/2023
+513,Glenpool,Recovered*,4638,01/04/2023
+514,Goldsby,Active,1 to 4,01/04/2023
+515,Goldsby,Deceased,1 to 4,01/04/2023
+516,Goldsby,Recovered*,258,01/04/2023
+517,Goltry,Deceased,1 to 4,01/04/2023
+518,Goltry,Recovered*,95,01/04/2023
+519,Goodwell,Deceased,1 to 4,01/04/2023
+520,Goodwell,Recovered*,301,01/04/2023
+521,Gore,Active,10,01/04/2023
+522,Gore,Deceased,14,01/04/2023
+523,Gore,Recovered*,951,01/04/2023
+524,Gotebo,Deceased,1 to 4,01/04/2023
+525,Gotebo,Recovered*,74,01/04/2023
+526,Gould,Active,1 to 4,01/04/2023
+527,Gould,Deceased,1 to 4,01/04/2023
+528,Gould,Recovered*,61,01/04/2023
+529,Gracemont,Active,1 to 4,01/04/2023
+530,Gracemont,Deceased,7,01/04/2023
+531,Gracemont,Recovered*,328,01/04/2023
+532,Grand Lake Towne,Recovered*,1 to 4,01/04/2023
+533,Grandfield,Active,1 to 4,01/04/2023
+534,Grandfield,Deceased,1 to 4,01/04/2023
+535,Grandfield,Recovered*,249,01/04/2023
+536,Granite,Active,1 to 4,01/04/2023
+537,Granite,Deceased,11,01/04/2023
+538,Granite,Recovered*,344,01/04/2023
+539,Grayson,Recovered*,1 to 4,01/04/2023
+540,Greenfield,Deceased,1 to 4,01/04/2023
+541,Greenfield,Recovered*,36,01/04/2023
+542,Grove,Active,36,01/04/2023
+543,Grove,Deceased,105,01/04/2023
+544,Grove,Recovered*,4464,01/04/2023
+545,Guthrie,Active,75,01/04/2023
+546,Guthrie,Deceased,114,01/04/2023
+547,Guthrie,Recovered*,7090,01/04/2023
+548,Guymon,Active,18,01/04/2023
+549,Guymon,Deceased,54,01/04/2023
+550,Guymon,Recovered*,4884,01/04/2023
+551,Haileyville,Active,1 to 4,01/04/2023
+552,Haileyville,Deceased,1 to 4,01/04/2023
+553,Haileyville,Recovered*,207,01/04/2023
+554,Hallett,Active,1 to 4,01/04/2023
+555,Hallett,Deceased,1 to 4,01/04/2023
+556,Hallett,Recovered*,41,01/04/2023
+557,Hammon,Active,1 to 4,01/04/2023
+558,Hammon,Deceased,1 to 4,01/04/2023
+559,Hammon,Recovered*,305,01/04/2023
+560,Hanna,Recovered*,94,01/04/2023
+561,Hardesty,Recovered*,98,01/04/2023
+562,Harrah,Active,28,01/04/2023
+563,Harrah,Deceased,43,01/04/2023
+564,Harrah,Recovered*,3838,01/04/2023
+565,Hartshorne,Active,5,01/04/2023
+566,Hartshorne,Deceased,24,01/04/2023
+567,Hartshorne,Recovered*,929,01/04/2023
+568,Haskell,Active,8,01/04/2023
+569,Haskell,Deceased,22,01/04/2023
+570,Haskell,Recovered*,1625,01/04/2023
+571,Hastings,Deceased,1 to 4,01/04/2023
+572,Hastings,Recovered*,115,01/04/2023
+573,Haworth,Active,1 to 4,01/04/2023
+574,Haworth,Deceased,7,01/04/2023
+575,Haworth,Recovered*,566,01/04/2023
+576,Headrick,Deceased,1 to 4,01/04/2023
+577,Headrick,Recovered*,77,01/04/2023
+578,Healdton,Active,16,01/04/2023
+579,Healdton,Deceased,27,01/04/2023
+580,Healdton,Recovered*,901,01/04/2023
+581,Heavener,Active,15,01/04/2023
+582,Heavener,Deceased,14,01/04/2023
+583,Heavener,Recovered*,1536,01/04/2023
+584,Helena,Active,1 to 4,01/04/2023
+585,Helena,Deceased,1 to 4,01/04/2023
+586,Helena,Recovered*,817,01/04/2023
+587,Hendrix,Active,1 to 4,01/04/2023
+588,Hendrix,Recovered*,278,01/04/2023
+589,Hennessey,Active,1 to 4,01/04/2023
+590,Hennessey,Deceased,22,01/04/2023
+591,Hennessey,Recovered*,1409,01/04/2023
+592,Henryetta,Active,9,01/04/2023
+593,Henryetta,Deceased,65,01/04/2023
+594,Henryetta,Recovered*,2468,01/04/2023
+595,Hillsdale,Deceased,1 to 4,01/04/2023
+596,Hillsdale,Recovered*,38,01/04/2023
+597,Hinton,Active,9,01/04/2023
+598,Hinton,Deceased,7,01/04/2023
+599,Hinton,Recovered*,981,01/04/2023
+600,Hitchcock,Recovered*,64,01/04/2023
+601,Hitchita,Active,1 to 4,01/04/2023
+602,Hitchita,Deceased,1 to 4,01/04/2023
+603,Hitchita,Recovered*,32,01/04/2023
+604,Hobart,Active,7,01/04/2023
+605,Hobart,Deceased,25,01/04/2023
+606,Hobart,Recovered*,1057,01/04/2023
+607,Hoffman,Recovered*,1 to 4,01/04/2023
+608,Holdenville,Active,8,01/04/2023
+609,Holdenville,Deceased,35,01/04/2023
+610,Holdenville,Recovered*,1526,01/04/2023
+611,Hollis,Active,16,01/04/2023
+612,Hollis,Deceased,10,01/04/2023
+613,Hollis,Recovered*,729,01/04/2023
+614,Hollister,Deceased,1 to 4,01/04/2023
+615,Hollister,Recovered*,1 to 4,01/04/2023
+616,Hominy,Active,11,01/04/2023
+617,Hominy,Deceased,15,01/04/2023
+618,Hominy,Recovered*,1507,01/04/2023
+619,Hooker,Active,1 to 4,01/04/2023
+620,Hooker,Recovered*,629,01/04/2023
+621,Horntown,Recovered*,1 to 4,01/04/2023
+622,Howe,Active,1 to 4,01/04/2023
+623,Howe,Deceased,1 to 4,01/04/2023
+624,Howe,Recovered*,806,01/04/2023
+625,Hugo,Active,16,01/04/2023
+626,Hugo,Deceased,42,01/04/2023
+627,Hugo,Recovered*,2807,01/04/2023
+628,Hulbert,Active,19,01/04/2023
+629,Hulbert,Deceased,16,01/04/2023
+630,Hulbert,Recovered*,1757,01/04/2023
+631,Hunter,Deceased,1 to 4,01/04/2023
+632,Hunter,Recovered*,81,01/04/2023
+633,Hydro,Deceased,11,01/04/2023
+634,Hydro,Recovered*,617,01/04/2023
+635,Idabel,Active,19,01/04/2023
+636,Idabel,Deceased,51,01/04/2023
+637,Idabel,Recovered*,3374,01/04/2023
+638,Indiahoma,Active,5,01/04/2023
+639,Indiahoma,Deceased,7,01/04/2023
+640,Indiahoma,Recovered*,413,01/04/2023
+641,Indianola,Active,1 to 4,01/04/2023
+642,Indianola,Deceased,1 to 4,01/04/2023
+643,Indianola,Recovered*,191,01/04/2023
+644,Inola,Active,12,01/04/2023
+645,Inola,Deceased,23,01/04/2023
+646,Inola,Recovered*,2120,01/04/2023
+647,Jay,Active,23,01/04/2023
+648,Jay,Deceased,49,01/04/2023
+649,Jay,Recovered*,3216,01/04/2023
+650,Jenks,Active,59,01/04/2023
+651,Jenks,Deceased,58,01/04/2023
+652,Jenks,Recovered*,7390,01/04/2023
+653,Jennings,Active,12,01/04/2023
+654,Jennings,Deceased,6,01/04/2023
+655,Jennings,Recovered*,589,01/04/2023
+656,Jet,Deceased,1 to 4,01/04/2023
+657,Jet,Recovered*,108,01/04/2023
+658,Jones,Active,31,01/04/2023
+659,Jones,Deceased,29,01/04/2023
+660,Jones,Recovered*,1748,01/04/2023
+661,Kansas,Active,9,01/04/2023
+662,Kansas,Deceased,10,01/04/2023
+663,Kansas,Recovered*,1143,01/04/2023
+664,Kaw City,Active,1 to 4,01/04/2023
+665,Kaw City,Deceased,1 to 4,01/04/2023
+666,Kaw City,Recovered*,188,01/04/2023
+667,Kellyville,Active,5,01/04/2023
+668,Kellyville,Deceased,10,01/04/2023
+669,Kellyville,Recovered*,990,01/04/2023
+670,Kemp,Active,1 to 4,01/04/2023
+671,Kemp,Recovered*,17,01/04/2023
+672,Kendrick,Recovered*,18,01/04/2023
+673,Kenefic,Active,1 to 4,01/04/2023
+674,Kenefic,Deceased,1 to 4,01/04/2023
+675,Kenefic,Recovered*,181,01/04/2023
+676,Keota,Active,1 to 4,01/04/2023
+677,Keota,Recovered*,595,01/04/2023
+678,Ketchum,Active,1 to 4,01/04/2023
+679,Ketchum,Deceased,1 to 4,01/04/2023
+680,Ketchum,Recovered*,184,01/04/2023
+681,Keyes,Active,1 to 4,01/04/2023
+682,Keyes,Deceased,1 to 4,01/04/2023
+683,Keyes,Recovered*,122,01/04/2023
+684,Kiefer,Active,5,01/04/2023
+685,Kiefer,Deceased,10,01/04/2023
+686,Kiefer,Recovered*,862,01/04/2023
+687,Kingfisher,Active,14,01/04/2023
+688,Kingfisher,Deceased,33,01/04/2023
+689,Kingfisher,Recovered*,1987,01/04/2023
+690,Kingston,Active,31,01/04/2023
+691,Kingston,Deceased,26,01/04/2023
+692,Kingston,Recovered*,2426,01/04/2023
+693,Kinta,Deceased,7,01/04/2023
+694,Kinta,Recovered*,211,01/04/2023
+695,Kiowa,Deceased,6,01/04/2023
+696,Kiowa,Recovered*,399,01/04/2023
+697,Knowles,Recovered*,1 to 4,01/04/2023
+698,Konawa,Active,9,01/04/2023
+699,Konawa,Deceased,19,01/04/2023
+700,Konawa,Recovered*,986,01/04/2023
+701,Krebs,Active,6,01/04/2023
+702,Krebs,Deceased,11,01/04/2023
+703,Krebs,Recovered*,475,01/04/2023
+704,Kremlin,Active,1 to 4,01/04/2023
+705,Kremlin,Recovered*,115,01/04/2023
+706,Lahoma,Active,1 to 4,01/04/2023
+707,Lahoma,Deceased,8,01/04/2023
+708,Lahoma,Recovered*,275,01/04/2023
+709,Lake Aluma,Recovered*,1 to 4,01/04/2023
+710,Lamar,Deceased,1 to 4,01/04/2023
+711,Lamar,Recovered*,51,01/04/2023
+712,Lamont,Deceased,1 to 4,01/04/2023
+713,Lamont,Recovered*,155,01/04/2023
+714,Langley,Active,1 to 4,01/04/2023
+715,Langley,Deceased,1 to 4,01/04/2023
+716,Langley,Recovered*,242,01/04/2023
+717,Langston,Deceased,1 to 4,01/04/2023
+718,Langston,Recovered*,134,01/04/2023
+719,Laverne,Deceased,1 to 4,01/04/2023
+720,Laverne,Recovered*,445,01/04/2023
+721,Lawton,Active,175,01/04/2023
+722,Lawton,Deceased,350,01/04/2023
+723,Lawton,Recovered*,25059,01/04/2023
+724,Le Flore,Recovered*,1 to 4,01/04/2023
+725,Leedey,Deceased,8,01/04/2023
+726,Leedey,Recovered*,214,01/04/2023
+727,Lehigh,Active,1 to 4,01/04/2023
+728,Lehigh,Deceased,1 to 4,01/04/2023
+729,Lehigh,Recovered*,139,01/04/2023
+730,Lenapah,Deceased,1 to 4,01/04/2023
+731,Lenapah,Recovered*,170,01/04/2023
+732,Leon,Recovered*,65,01/04/2023
+733,Lexington,Active,25,01/04/2023
+734,Lexington,Deceased,48,01/04/2023
+735,Lexington,Recovered*,2906,01/04/2023
+736,Liberty,Recovered*,1 to 4,01/04/2023
+737,Lindsay,Active,13,01/04/2023
+738,Lindsay,Deceased,35,01/04/2023
+739,Lindsay,Recovered*,1797,01/04/2023
+740,Loco,Active,1 to 4,01/04/2023
+741,Loco,Deceased,1 to 4,01/04/2023
+742,Loco,Recovered*,112,01/04/2023
+743,Locust Grove,Active,14,01/04/2023
+744,Locust Grove,Deceased,22,01/04/2023
+745,Locust Grove,Recovered*,2310,01/04/2023
+746,Lone Grove,Active,24,01/04/2023
+747,Lone Grove,Deceased,17,01/04/2023
+748,Lone Grove,Recovered*,1402,01/04/2023
+749,Lone Wolf,Active,1 to 4,01/04/2023
+750,Lone Wolf,Recovered*,147,01/04/2023
+751,Longdale,Deceased,1 to 4,01/04/2023
+752,Longdale,Recovered*,201,01/04/2023
+753,Lookeba,Active,5,01/04/2023
+754,Lookeba,Deceased,7,01/04/2023
+755,Lookeba,Recovered*,198,01/04/2023
+756,Loveland,Active,1 to 4,01/04/2023
+757,Loveland,Recovered*,7,01/04/2023
+758,Loyal,Deceased,1 to 4,01/04/2023
+759,Loyal,Recovered*,95,01/04/2023
+760,Luther,Active,5,01/04/2023
+761,Luther,Deceased,13,01/04/2023
+762,Luther,Recovered*,1093,01/04/2023
+763,Macomb,Active,1 to 4,01/04/2023
+764,Macomb,Deceased,5,01/04/2023
+765,Macomb,Recovered*,509,01/04/2023
+766,Madill,Active,26,01/04/2023
+767,Madill,Deceased,21,01/04/2023
+768,Madill,Recovered*,2779,01/04/2023
+769,Manchester,Recovered*,31,01/04/2023
+770,Mangum,Active,1 to 4,01/04/2023
+771,Mangum,Deceased,29,01/04/2023
+772,Mangum,Recovered*,1048,01/04/2023
+773,Manitou,Active,1 to 4,01/04/2023
+774,Manitou,Recovered*,42,01/04/2023
+775,Mannford,Active,18,01/04/2023
+776,Mannford,Deceased,43,01/04/2023
+777,Mannford,Recovered*,2199,01/04/2023
+778,Mannsville,Active,6,01/04/2023
+779,Mannsville,Deceased,6,01/04/2023
+780,Mannsville,Recovered*,407,01/04/2023
+781,Maramec,Recovered*,101,01/04/2023
+782,Marble City,Active,1 to 4,01/04/2023
+783,Marble City,Deceased,1 to 4,01/04/2023
+784,Marble City,Recovered*,190,01/04/2023
+785,Marietta,Active,45,01/04/2023
+786,Marietta,Deceased,37,01/04/2023
+787,Marietta,Recovered*,2441,01/04/2023
+788,Marland,Active,1 to 4,01/04/2023
+789,Marland,Deceased,1 to 4,01/04/2023
+790,Marland,Recovered*,141,01/04/2023
+791,Marlow,Active,12,01/04/2023
+792,Marlow,Deceased,46,01/04/2023
+793,Marlow,Recovered*,2599,01/04/2023
+794,Marshall,Deceased,1 to 4,01/04/2023
+795,Marshall,Recovered*,104,01/04/2023
+796,Martha,Deceased,1 to 4,01/04/2023
+797,Martha,Recovered*,60,01/04/2023
+798,Maud,Active,5,01/04/2023
+799,Maud,Deceased,1 to 4,01/04/2023
+800,Maud,Recovered*,550,01/04/2023
+801,May,Active,1 to 4,01/04/2023
+802,May,Recovered*,34,01/04/2023
+803,Maysville,Active,6,01/04/2023
+804,Maysville,Deceased,12,01/04/2023
+805,Maysville,Recovered*,610,01/04/2023
+806,McAlester,Active,63,01/04/2023
+807,McAlester,Deceased,152,01/04/2023
+808,McAlester,Recovered*,8978,01/04/2023
+809,McCurtain,Active,1 to 4,01/04/2023
+810,McCurtain,Deceased,1 to 4,01/04/2023
+811,McCurtain,Recovered*,265,01/04/2023
+812,McLoud,Active,41,01/04/2023
+813,McLoud,Deceased,45,01/04/2023
+814,McLoud,Recovered*,3399,01/04/2023
+815,Mead,Active,20,01/04/2023
+816,Mead,Deceased,8,01/04/2023
+817,Mead,Recovered*,987,01/04/2023
+818,Medford,Active,1 to 4,01/04/2023
+819,Medford,Deceased,1 to 4,01/04/2023
+820,Medford,Recovered*,395,01/04/2023
+821,Medicine Park,Deceased,1 to 4,01/04/2023
+822,Medicine Park,Recovered*,79,01/04/2023
+823,Meeker,Active,15,01/04/2023
+824,Meeker,Deceased,27,01/04/2023
+825,Meeker,Recovered*,1440,01/04/2023
+826,Meno,Active,1 to 4,01/04/2023
+827,Meno,Deceased,1 to 4,01/04/2023
+828,Meno,Recovered*,124,01/04/2023
+829,Meridian,Deceased,1 to 4,01/04/2023
+830,Meridian,Recovered*,80,01/04/2023
+831,Miami,Active,49,01/04/2023
+832,Miami,Deceased,64,01/04/2023
+833,Miami,Recovered*,6336,01/04/2023
+834,Midwest City,Active,151,01/04/2023
+835,Midwest City,Deceased,85,01/04/2023
+836,Midwest City,Recovered*,7609,01/04/2023
+837,Milburn,Active,1 to 4,01/04/2023
+838,Milburn,Deceased,1 to 4,01/04/2023
+839,Milburn,Recovered*,456,01/04/2023
+840,Mill Creek,Active,1 to 4,01/04/2023
+841,Mill Creek,Deceased,1 to 4,01/04/2023
+842,Mill Creek,Recovered*,258,01/04/2023
+843,Millerton,Deceased,1 to 4,01/04/2023
+844,Millerton,Recovered*,69,01/04/2023
+845,Minco,Active,8,01/04/2023
+846,Minco,Deceased,9,01/04/2023
+847,Minco,Recovered*,812,01/04/2023
+848,Moffett,Recovered*,13,01/04/2023
+849,Moore,Active,192,01/04/2023
+850,Moore,Deceased,159,01/04/2023
+851,Moore,Recovered*,20011,01/04/2023
+852,Mooreland,Active,1 to 4,01/04/2023
+853,Mooreland,Deceased,8,01/04/2023
+854,Mooreland,Recovered*,471,01/04/2023
+855,Morris,Active,1 to 4,01/04/2023
+856,Morris,Deceased,19,01/04/2023
+857,Morris,Recovered*,994,01/04/2023
+858,Morrison,Active,1 to 4,01/04/2023
+859,Morrison,Deceased,1 to 4,01/04/2023
+860,Morrison,Recovered*,465,01/04/2023
+861,Mounds,Active,14,01/04/2023
+862,Mounds,Deceased,33,01/04/2023
+863,Mounds,Recovered*,2101,01/04/2023
+864,Mountain Park,Deceased,1 to 4,01/04/2023
+865,Mountain Park,Recovered*,100,01/04/2023
+866,Mountain View,Active,1 to 4,01/04/2023
+867,Mountain View,Deceased,6,01/04/2023
+868,Mountain View,Recovered*,268,01/04/2023
+869,Muldrow,Active,17,01/04/2023
+870,Muldrow,Deceased,20,01/04/2023
+871,Muldrow,Recovered*,3257,01/04/2023
+872,Mulhall,Recovered*,227,01/04/2023
+873,Muskogee,Active,141,01/04/2023
+874,Muskogee,Deceased,270,01/04/2023
+875,Muskogee,Recovered*,14889,01/04/2023
+876,Mustang,Active,48,01/04/2023
+877,Mustang,Deceased,87,01/04/2023
+878,Mustang,Recovered*,7407,01/04/2023
+879,Mutual,Deceased,1 to 4,01/04/2023
+880,Mutual,Recovered*,103,01/04/2023
+881,Nash,Active,1 to 4,01/04/2023
+882,Nash,Deceased,1 to 4,01/04/2023
+883,Nash,Recovered*,101,01/04/2023
+884,New Cordell,Active,7,01/04/2023
+885,New Cordell,Deceased,16,01/04/2023
+886,New Cordell,Recovered*,1009,01/04/2023
+887,Newcastle,Active,29,01/04/2023
+888,Newcastle,Deceased,27,01/04/2023
+889,Newcastle,Recovered*,3535,01/04/2023
+890,Newkirk,Active,9,01/04/2023
+891,Newkirk,Deceased,14,01/04/2023
+892,Newkirk,Recovered*,1150,01/04/2023
+893,Nichols Hills,Active,9,01/04/2023
+894,Nichols Hills,Deceased,5,01/04/2023
+895,Nichols Hills,Recovered*,954,01/04/2023
+896,Nicoma Park,Active,1 to 4,01/04/2023
+897,Nicoma Park,Deceased,1 to 4,01/04/2023
+898,Nicoma Park,Recovered*,105,01/04/2023
+899,Ninnekah,Active,5,01/04/2023
+900,Ninnekah,Deceased,11,01/04/2023
+901,Ninnekah,Recovered*,479,01/04/2023
+902,Noble,Active,53,01/04/2023
+903,Noble,Deceased,47,01/04/2023
+904,Noble,Recovered*,4473,01/04/2023
+905,Norge,Recovered*,1 to 4,01/04/2023
+906,Norman,Active,310,01/04/2023
+907,Norman,Deceased,347,01/04/2023
+908,Norman,Recovered*,43799,01/04/2023
+909,North Enid,Recovered*,7,01/04/2023
+910,North Miami,Active,1 to 4,01/04/2023
+911,North Miami,Deceased,1 to 4,01/04/2023
+912,North Miami,Recovered*,132,01/04/2023
+913,Nowata,Active,7,01/04/2023
+914,Nowata,Deceased,29,01/04/2023
+915,Nowata,Recovered*,1916,01/04/2023
+916,Oakland,Recovered*,11,01/04/2023
+917,Oaks,Active,1 to 4,01/04/2023
+918,Oaks,Deceased,5,01/04/2023
+919,Oaks,Recovered*,279,01/04/2023
+920,Oakwood,Active,1 to 4,01/04/2023
+921,Oakwood,Deceased,1 to 4,01/04/2023
+922,Oakwood,Recovered*,60,01/04/2023
+923,Ochelata,Active,7,01/04/2023
+924,Ochelata,Deceased,10,01/04/2023
+925,Ochelata,Recovered*,599,01/04/2023
+926,Oilton,Active,1 to 4,01/04/2023
+927,Oilton,Deceased,10,01/04/2023
+928,Oilton,Recovered*,318,01/04/2023
+929,Okarche,Active,1 to 4,01/04/2023
+930,Okarche,Deceased,6,01/04/2023
+931,Okarche,Recovered*,646,01/04/2023
+932,Okay,Active,1 to 4,01/04/2023
+933,Okay,Deceased,1 to 4,01/04/2023
+934,Okay,Recovered*,196,01/04/2023
+935,Okeene,Active,9,01/04/2023
+936,Okeene,Deceased,6,01/04/2023
+937,Okeene,Recovered*,431,01/04/2023
+938,Okemah,Active,13,01/04/2023
+939,Okemah,Deceased,30,01/04/2023
+940,Okemah,Recovered*,2277,01/04/2023
+941,Oklahoma City,Active,966,01/04/2023
+942,Oklahoma City,Deceased,2051,01/04/2023
+943,Oklahoma City,Recovered*,164118,01/04/2023
+944,Oklahoma County,Recovered*,1 to 4,01/04/2023
+945,Okmulgee,Active,17,01/04/2023
+946,Okmulgee,Deceased,94,01/04/2023
+947,Okmulgee,Recovered*,4917,01/04/2023
+948,Oktaha,Active,1 to 4,01/04/2023
+949,Oktaha,Deceased,10,01/04/2023
+950,Oktaha,Recovered*,425,01/04/2023
+951,Olustee,Active,1 to 4,01/04/2023
+952,Olustee,Recovered*,238,01/04/2023
+953,Oologah,Active,13,01/04/2023
+954,Oologah,Deceased,13,01/04/2023
+955,Oologah,Recovered*,1451,01/04/2023
+956,Optima,Active,1 to 4,01/04/2023
+957,Optima,Recovered*,72,01/04/2023
+958,Orlando,Active,1 to 4,01/04/2023
+959,Orlando,Deceased,1 to 4,01/04/2023
+960,Orlando,Recovered*,145,01/04/2023
+961,Osage,Active,1 to 4,01/04/2023
+962,Osage,Deceased,1 to 4,01/04/2023
+963,Osage,Recovered*,139,01/04/2023
+964,Owasso,Active,77,01/04/2023
+965,Owasso,Deceased,169,01/04/2023
+966,Owasso,Recovered*,15011,01/04/2023
+967,Paden,Deceased,5,01/04/2023
+968,Paden,Recovered*,457,01/04/2023
+969,Panama,Active,1 to 4,01/04/2023
+970,Panama,Deceased,6,01/04/2023
+971,Panama,Recovered*,409,01/04/2023
+972,Paoli,Active,7,01/04/2023
+973,Paoli,Deceased,1 to 4,01/04/2023
+974,Paoli,Recovered*,444,01/04/2023
+975,Paradise Hill,Recovered*,1 to 4,01/04/2023
+976,Pauls Valley,Active,26,01/04/2023
+977,Pauls Valley,Deceased,58,01/04/2023
+978,Pauls Valley,Recovered*,2745,01/04/2023
+979,Pawhuska,Active,14,01/04/2023
+980,Pawhuska,Deceased,24,01/04/2023
+981,Pawhuska,Recovered*,1563,01/04/2023
+982,Pawnee,Active,7,01/04/2023
+983,Pawnee,Deceased,31,01/04/2023
+984,Pawnee,Recovered*,1309,01/04/2023
+985,Pensacola,Deceased,1 to 4,01/04/2023
+986,Pensacola,Recovered*,6,01/04/2023
+987,Peoria,Active,1 to 4,01/04/2023
+988,Peoria,Recovered*,30,01/04/2023
+989,Perkins,Active,8,01/04/2023
+990,Perkins,Deceased,12,01/04/2023
+991,Perkins,Recovered*,1512,01/04/2023
+992,Perry,Active,25,01/04/2023
+993,Perry,Deceased,29,01/04/2023
+994,Perry,Recovered*,1951,01/04/2023
+995,Phillips,Recovered*,1 to 4,01/04/2023
+996,Piedmont,Active,19,01/04/2023
+997,Piedmont,Deceased,14,01/04/2023
+998,Piedmont,Recovered*,3691,01/04/2023
+999,Pink,Recovered*,7,01/04/2023
+1000,Pittsburg,Active,1 to 4,01/04/2023
+1001,Pittsburg,Deceased,1 to 4,01/04/2023
+1002,Pittsburg,Recovered*,197,01/04/2023
+1003,Pocasset,Deceased,1 to 4,01/04/2023
+1004,Pocasset,Recovered*,148,01/04/2023
+1005,Pocola,Active,20,01/04/2023
+1006,Pocola,Deceased,8,01/04/2023
+1007,Pocola,Recovered*,1191,01/04/2023
+1008,Ponca City,Active,109,01/04/2023
+1009,Ponca City,Deceased,155,01/04/2023
+1010,Ponca City,Recovered*,11272,01/04/2023
+1011,Pond Creek,Active,1 to 4,01/04/2023
+1012,Pond Creek,Deceased,1 to 4,01/04/2023
+1013,Pond Creek,Recovered*,276,01/04/2023
+1014,Porter,Active,1 to 4,01/04/2023
+1015,Porter,Deceased,19,01/04/2023
+1016,Porter,Recovered*,861,01/04/2023
+1017,Porum,Active,6,01/04/2023
+1018,Porum,Deceased,11,01/04/2023
+1019,Porum,Recovered*,713,01/04/2023
+1020,Poteau,Active,38,01/04/2023
+1021,Poteau,Deceased,34,01/04/2023
+1022,Poteau,Recovered*,3998,01/04/2023
+1023,Prague,Active,5,01/04/2023
+1024,Prague,Deceased,22,01/04/2023
+1025,Prague,Recovered*,1452,01/04/2023
+1026,Prue,Active,1 to 4,01/04/2023
+1027,Prue,Deceased,1 to 4,01/04/2023
+1028,Prue,Recovered*,157,01/04/2023
+1029,Pryor Creek,Active,55,01/04/2023
+1030,Pryor Creek,Deceased,72,01/04/2023
+1031,Pryor Creek,Recovered*,5374,01/04/2023
+1032,Purcell,Active,37,01/04/2023
+1033,Purcell,Deceased,43,01/04/2023
+1034,Purcell,Recovered*,3489,01/04/2023
+1035,Putnam,Active,1 to 4,01/04/2023
+1036,Putnam,Deceased,1 to 4,01/04/2023
+1037,Putnam,Recovered*,20,01/04/2023
+1038,Quapaw,Active,6,01/04/2023
+1039,Quapaw,Deceased,20,01/04/2023
+1040,Quapaw,Recovered*,1055,01/04/2023
+1041,Quinton,Active,1 to 4,01/04/2023
+1042,Quinton,Deceased,12,01/04/2023
+1043,Quinton,Recovered*,537,01/04/2023
+1044,Ralston,Active,1 to 4,01/04/2023
+1045,Ralston,Deceased,1 to 4,01/04/2023
+1046,Ralston,Recovered*,146,01/04/2023
+1047,Ramona,Active,7,01/04/2023
+1048,Ramona,Deceased,10,01/04/2023
+1049,Ramona,Recovered*,629,01/04/2023
+1050,Randlett,Deceased,1 to 4,01/04/2023
+1051,Randlett,Recovered*,147,01/04/2023
+1052,Ratliff City,Active,1 to 4,01/04/2023
+1053,Ratliff City,Deceased,1 to 4,01/04/2023
+1054,Ratliff City,Recovered*,259,01/04/2023
+1055,Rattan,Active,1 to 4,01/04/2023
+1056,Rattan,Deceased,1 to 4,01/04/2023
+1057,Rattan,Recovered*,224,01/04/2023
+1058,Ravia,Active,5,01/04/2023
+1059,Ravia,Deceased,6,01/04/2023
+1060,Ravia,Recovered*,211,01/04/2023
+1061,Red Oak,Active,1 to 4,01/04/2023
+1062,Red Oak,Deceased,5,01/04/2023
+1063,Red Oak,Recovered*,482,01/04/2023
+1064,Red Rock,Active,1 to 4,01/04/2023
+1065,Red Rock,Deceased,1 to 4,01/04/2023
+1066,Red Rock,Recovered*,315,01/04/2023
+1067,Redbird,Recovered*,30,01/04/2023
+1068,Rentiesville,Recovered*,9,01/04/2023
+1069,Reydon,Deceased,1 to 4,01/04/2023
+1070,Reydon,Recovered*,142,01/04/2023
+1071,Ringling,Active,8,01/04/2023
+1072,Ringling,Deceased,1 to 4,01/04/2023
+1073,Ringling,Recovered*,583,01/04/2023
+1074,Ringwood,Active,1 to 4,01/04/2023
+1075,Ringwood,Deceased,1 to 4,01/04/2023
+1076,Ringwood,Recovered*,408,01/04/2023
+1077,Ripley,Active,1 to 4,01/04/2023
+1078,Ripley,Deceased,1 to 4,01/04/2023
+1079,Ripley,Recovered*,268,01/04/2023
+1080,Rock Island,Recovered*,1 to 4,01/04/2023
+1081,Rocky,Deceased,1 to 4,01/04/2023
+1082,Rocky,Recovered*,120,01/04/2023
+1083,Roff,Active,5,01/04/2023
+1084,Roff,Deceased,6,01/04/2023
+1085,Roff,Recovered*,615,01/04/2023
+1086,Roland,Active,6,01/04/2023
+1087,Roland,Deceased,8,01/04/2023
+1088,Roland,Recovered*,1415,01/04/2023
+1089,Roosevelt,Active,1 to 4,01/04/2023
+1090,Roosevelt,Deceased,1 to 4,01/04/2023
+1091,Roosevelt,Recovered*,135,01/04/2023
+1092,Rosedale,Recovered*,1 to 4,01/04/2023
+1093,Rosston,Recovered*,23,01/04/2023
+1094,Rush Springs,Active,1 to 4,01/04/2023
+1095,Rush Springs,Deceased,11,01/04/2023
+1096,Rush Springs,Recovered*,698,01/04/2023
+1097,Ryan,Active,1 to 4,01/04/2023
+1098,Ryan,Deceased,6,01/04/2023
+1099,Ryan,Recovered*,215,01/04/2023
+1100,Salina,Active,19,01/04/2023
+1101,Salina,Deceased,22,01/04/2023
+1102,Salina,Recovered*,1921,01/04/2023
+1103,Sallisaw,Active,42,01/04/2023
+1104,Sallisaw,Deceased,40,01/04/2023
+1105,Sallisaw,Recovered*,4833,01/04/2023
+1106,Sand Springs,Active,69,01/04/2023
+1107,Sand Springs,Deceased,136,01/04/2023
+1108,Sand Springs,Recovered*,9916,01/04/2023
+1109,Sapulpa,Active,81,01/04/2023
+1110,Sapulpa,Deceased,143,01/04/2023
+1111,Sapulpa,Recovered*,10181,01/04/2023
+1112,Sasakwa,Active,1 to 4,01/04/2023
+1113,Sasakwa,Deceased,1 to 4,01/04/2023
+1114,Sasakwa,Recovered*,221,01/04/2023
+1115,Savanna,Active,1 to 4,01/04/2023
+1116,Savanna,Deceased,6,01/04/2023
+1117,Savanna,Recovered*,228,01/04/2023
+1118,Sawyer,Deceased,1 to 4,01/04/2023
+1119,Sawyer,Recovered*,221,01/04/2023
+1120,Sayre,Active,9,01/04/2023
+1121,Sayre,Deceased,28,01/04/2023
+1122,Sayre,Recovered*,1676,01/04/2023
+1123,Schulter,Recovered*,108,01/04/2023
+1124,Seiling,Active,1 to 4,01/04/2023
+1125,Seiling,Deceased,12,01/04/2023
+1126,Seiling,Recovered*,382,01/04/2023
+1127,Seminole,Active,16,01/04/2023
+1128,Seminole,Deceased,69,01/04/2023
+1129,Seminole,Recovered*,4074,01/04/2023
+1130,Sentinel,Active,1 to 4,01/04/2023
+1131,Sentinel,Deceased,6,01/04/2023
+1132,Sentinel,Recovered*,285,01/04/2023
+1133,Shady Point,Active,6,01/04/2023
+1134,Shady Point,Deceased,1 to 4,01/04/2023
+1135,Shady Point,Recovered*,525,01/04/2023
+1136,Sharon,Active,1 to 4,01/04/2023
+1137,Sharon,Deceased,1 to 4,01/04/2023
+1138,Sharon,Recovered*,136,01/04/2023
+1139,Shattuck,Active,6,01/04/2023
+1140,Shattuck,Deceased,5,01/04/2023
+1141,Shattuck,Recovered*,469,01/04/2023
+1142,Shawnee,Active,179,01/04/2023
+1143,Shawnee,Deceased,183,01/04/2023
+1144,Shawnee,Recovered*,15581,01/04/2023
+1145,Shidler,Active,1 to 4,01/04/2023
+1146,Shidler,Deceased,1 to 4,01/04/2023
+1147,Shidler,Recovered*,190,01/04/2023
+1148,Silo,Recovered*,5,01/04/2023
+1149,Skedee,Deceased,1 to 4,01/04/2023
+1150,Skedee,Recovered*,14,01/04/2023
+1151,Skiatook,Active,42,01/04/2023
+1152,Skiatook,Deceased,54,01/04/2023
+1153,Skiatook,Recovered*,4755,01/04/2023
+1154,Slaughterville,Recovered*,6,01/04/2023
+1155,Slick,Deceased,1 to 4,01/04/2023
+1156,Slick,Recovered*,33,01/04/2023
+1157,Smith Village,Recovered*,7,01/04/2023
+1158,Snyder,Active,1 to 4,01/04/2023
+1159,Snyder,Deceased,18,01/04/2023
+1160,Snyder,Recovered*,462,01/04/2023
+1161,Soper,Active,1 to 4,01/04/2023
+1162,Soper,Deceased,1 to 4,01/04/2023
+1163,Soper,Recovered*,374,01/04/2023
+1164,South Coffeyville,Active,1 to 4,01/04/2023
+1165,South Coffeyville,Deceased,1 to 4,01/04/2023
+1166,South Coffeyville,Recovered*,150,01/04/2023
+1167,Sparks,Active,1 to 4,01/04/2023
+1168,Sparks,Deceased,1 to 4,01/04/2023
+1169,Sparks,Recovered*,176,01/04/2023
+1170,Spavinaw,Active,1 to 4,01/04/2023
+1171,Spavinaw,Deceased,1 to 4,01/04/2023
+1172,Spavinaw,Recovered*,475,01/04/2023
+1173,Spencer,Active,15,01/04/2023
+1174,Spencer,Deceased,32,01/04/2023
+1175,Spencer,Recovered*,1727,01/04/2023
+1176,Sperry,Active,13,01/04/2023
+1177,Sperry,Deceased,12,01/04/2023
+1178,Sperry,Recovered*,1706,01/04/2023
+1179,Spiro,Active,16,01/04/2023
+1180,Spiro,Deceased,8,01/04/2023
+1181,Spiro,Recovered*,1874,01/04/2023
+1182,Sportsmen Acres,Recovered*,8,01/04/2023
+1183,Springer,Active,1 to 4,01/04/2023
+1184,Springer,Deceased,1 to 4,01/04/2023
+1185,Springer,Recovered*,309,01/04/2023
+1186,St. Louis,Deceased,1 to 4,01/04/2023
+1187,Sterling,Active,1 to 4,01/04/2023
+1188,Sterling,Deceased,5,01/04/2023
+1189,Sterling,Recovered*,200,01/04/2023
+1190,Stidham,Recovered*,1 to 4,01/04/2023
+1191,Stigler,Active,7,01/04/2023
+1192,Stigler,Deceased,27,01/04/2023
+1193,Stigler,Recovered*,1993,01/04/2023
+1194,Stillwater,Active,70,01/04/2023
+1195,Stillwater,Deceased,101,01/04/2023
+1196,Stillwater,Recovered*,15931,01/04/2023
+1197,Stilwell,Active,61,01/04/2023
+1198,Stilwell,Deceased,54,01/04/2023
+1199,Stilwell,Recovered*,6268,01/04/2023
+1200,Stonewall,Active,7,01/04/2023
+1201,Stonewall,Deceased,9,01/04/2023
+1202,Stonewall,Recovered*,867,01/04/2023
+1203,Strang,Active,1 to 4,01/04/2023
+1204,Strang,Deceased,1 to 4,01/04/2023
+1205,Strang,Recovered*,195,01/04/2023
+1206,Stratford,Active,17,01/04/2023
+1207,Stratford,Deceased,16,01/04/2023
+1208,Stratford,Recovered*,1120,01/04/2023
+1209,Stringtown,Active,1 to 4,01/04/2023
+1210,Stringtown,Deceased,1 to 4,01/04/2023
+1211,Stringtown,Recovered*,240,01/04/2023
+1212,Strong City,Recovered*,8,01/04/2023
+1213,Stroud,Active,15,01/04/2023
+1214,Stroud,Deceased,19,01/04/2023
+1215,Stroud,Recovered*,1226,01/04/2023
+1216,Stuart,Active,1 to 4,01/04/2023
+1217,Stuart,Deceased,6,01/04/2023
+1218,Stuart,Recovered*,273,01/04/2023
+1219,Sulphur,Active,34,01/04/2023
+1220,Sulphur,Deceased,55,01/04/2023
+1221,Sulphur,Recovered*,3106,01/04/2023
+1222,Summit,Recovered*,1 to 4,01/04/2023
+1223,Sweetwater,Deceased,1 to 4,01/04/2023
+1224,Sweetwater,Recovered*,75,01/04/2023
+1225,Taft,Active,1 to 4,01/04/2023
+1226,Taft,Deceased,7,01/04/2023
+1227,Taft,Recovered*,1760,01/04/2023
+1228,Tahlequah,Active,103,01/04/2023
+1229,Tahlequah,Deceased,98,01/04/2023
+1230,Tahlequah,Recovered*,11486,01/04/2023
+1231,Talala,Active,7,01/04/2023
+1232,Talala,Deceased,8,01/04/2023
+1233,Talala,Recovered*,807,01/04/2023
+1234,Talihina,Active,17,01/04/2023
+1235,Talihina,Deceased,23,01/04/2023
+1236,Talihina,Recovered*,1572,01/04/2023
+1237,Taloga,Active,1 to 4,01/04/2023
+1238,Taloga,Deceased,1 to 4,01/04/2023
+1239,Taloga,Recovered*,108,01/04/2023
+1240,Tamaha,Recovered*,1 to 4,01/04/2023
+1241,Tatums,Active,1 to 4,01/04/2023
+1242,Tatums,Recovered*,27,01/04/2023
+1243,Tecumseh,Active,40,01/04/2023
+1244,Tecumseh,Deceased,45,01/04/2023
+1245,Tecumseh,Recovered*,4057,01/04/2023
+1246,Temple,Active,1 to 4,01/04/2023
+1247,Temple,Deceased,14,01/04/2023
+1248,Temple,Recovered*,371,01/04/2023
+1249,Terlton,Active,1 to 4,01/04/2023
+1250,Terlton,Deceased,6,01/04/2023
+1251,Terlton,Recovered*,482,01/04/2023
+1252,Terral,Deceased,1 to 4,01/04/2023
+1253,Terral,Recovered*,110,01/04/2023
+1254,Texhoma,Recovered*,368,01/04/2023
+1255,Texola,Deceased,1 to 4,01/04/2023
+1256,Texola,Recovered*,8,01/04/2023
+1257,Thackerville,Active,5,01/04/2023
+1258,Thackerville,Deceased,1 to 4,01/04/2023
+1259,Thackerville,Recovered*,503,01/04/2023
+1260,The Village,Active,1 to 4,01/04/2023
+1261,The Village,Deceased,1 to 4,01/04/2023
+1262,The Village,Recovered*,488,01/04/2023
+1263,Thomas,Active,1 to 4,01/04/2023
+1264,Thomas,Deceased,6,01/04/2023
+1265,Thomas,Recovered*,433,01/04/2023
+1266,Tipton,Deceased,9,01/04/2023
+1267,Tipton,Recovered*,301,01/04/2023
+1268,Tishomingo,Active,18,01/04/2023
+1269,Tishomingo,Deceased,29,01/04/2023
+1270,Tishomingo,Recovered*,1652,01/04/2023
+1271,Tonkawa,Active,6,01/04/2023
+1272,Tonkawa,Deceased,21,01/04/2023
+1273,Tonkawa,Recovered*,1002,01/04/2023
+1274,Tribbey,Recovered*,1 to 4,01/04/2023
+1275,Tryon,Active,1 to 4,01/04/2023
+1276,Tryon,Deceased,1 to 4,01/04/2023
+1277,Tryon,Recovered*,247,01/04/2023
+1278,Tullahassee,Recovered*,11,01/04/2023
+1279,Tulsa,Active,902,01/04/2023
+1280,Tulsa,Deceased,1507,01/04/2023
+1281,Tulsa,Recovered*,124005,01/04/2023
+1282,Tupelo,Active,1 to 4,01/04/2023
+1283,Tupelo,Deceased,1 to 4,01/04/2023
+1284,Tupelo,Recovered*,286,01/04/2023
+1285,Tushka,Recovered*,1 to 4,01/04/2023
+1286,Tuttle,Active,29,01/04/2023
+1287,Tuttle,Deceased,49,01/04/2023
+1288,Tuttle,Recovered*,4074,01/04/2023
+1289,Tyrone,Active,1 to 4,01/04/2023
+1290,Tyrone,Recovered*,211,01/04/2023
+1291,Union City,Active,1 to 4,01/04/2023
+1292,Union City,Deceased,1 to 4,01/04/2023
+1293,Union City,Recovered*,281,01/04/2023
+1294,Valley Park,Recovered*,1 to 4,01/04/2023
+1295,Valliant,Active,1 to 4,01/04/2023
+1296,Valliant,Deceased,15,01/04/2023
+1297,Valliant,Recovered*,838,01/04/2023
+1298,Velma,Deceased,1 to 4,01/04/2023
+1299,Velma,Recovered*,201,01/04/2023
+1300,Vera,Active,1 to 4,01/04/2023
+1301,Vera,Recovered*,41,01/04/2023
+1302,Verden,Deceased,1 to 4,01/04/2023
+1303,Verden,Recovered*,231,01/04/2023
+1304,Verdigris,Recovered*,13,01/04/2023
+1305,Vian,Active,16,01/04/2023
+1306,Vian,Deceased,28,01/04/2023
+1307,Vian,Recovered*,1580,01/04/2023
+1308,Vici,Active,1 to 4,01/04/2023
+1309,Vici,Deceased,8,01/04/2023
+1310,Vici,Recovered*,301,01/04/2023
+1311,Vinita,Active,27,01/04/2023
+1312,Vinita,Deceased,47,01/04/2023
+1313,Vinita,Recovered*,4472,01/04/2023
+1314,Wagoner,Active,22,01/04/2023
+1315,Wagoner,Deceased,74,01/04/2023
+1316,Wagoner,Recovered*,4605,01/04/2023
+1317,Wainwright,Active,1 to 4,01/04/2023
+1318,Wainwright,Deceased,1 to 4,01/04/2023
+1319,Wainwright,Recovered*,42,01/04/2023
+1320,Wakita,Deceased,5,01/04/2023
+1321,Wakita,Recovered*,149,01/04/2023
+1322,Walters,Active,9,01/04/2023
+1323,Walters,Deceased,18,01/04/2023
+1324,Walters,Recovered*,1009,01/04/2023
+1325,Wanette,Active,1 to 4,01/04/2023
+1326,Wanette,Deceased,5,01/04/2023
+1327,Wanette,Recovered*,410,01/04/2023
+1328,Wann,Active,1 to 4,01/04/2023
+1329,Wann,Deceased,1 to 4,01/04/2023
+1330,Wann,Recovered*,235,01/04/2023
+1331,Wapanucka,Deceased,1 to 4,01/04/2023
+1332,Wapanucka,Recovered*,192,01/04/2023
+1333,Warner,Active,5,01/04/2023
+1334,Warner,Deceased,17,01/04/2023
+1335,Warner,Recovered*,763,01/04/2023
+1336,Warr Acres,Active,9,01/04/2023
+1337,Warr Acres,Deceased,15,01/04/2023
+1338,Warr Acres,Recovered*,1790,01/04/2023
+1339,Washington,Active,1 to 4,01/04/2023
+1340,Washington,Deceased,9,01/04/2023
+1341,Washington,Recovered*,902,01/04/2023
+1342,Watonga,Active,1 to 4,01/04/2023
+1343,Watonga,Deceased,15,01/04/2023
+1344,Watonga,Recovered*,1237,01/04/2023
+1345,Watts,Active,1 to 4,01/04/2023
+1346,Watts,Deceased,13,01/04/2023
+1347,Watts,Recovered*,668,01/04/2023
+1348,Waukomis,Active,1 to 4,01/04/2023
+1349,Waukomis,Deceased,1 to 4,01/04/2023
+1350,Waukomis,Recovered*,473,01/04/2023
+1351,Waurika,Active,1 to 4,01/04/2023
+1352,Waurika,Deceased,14,01/04/2023
+1353,Waurika,Recovered*,581,01/04/2023
+1354,Wayne,Active,5,01/04/2023
+1355,Wayne,Deceased,6,01/04/2023
+1356,Wayne,Recovered*,619,01/04/2023
+1357,Waynoka,Deceased,1 to 4,01/04/2023
+1358,Waynoka,Recovered*,271,01/04/2023
+1359,Weatherford,Active,45,01/04/2023
+1360,Weatherford,Deceased,55,01/04/2023
+1361,Weatherford,Recovered*,4185,01/04/2023
+1362,Webbers Falls,Deceased,1 to 4,01/04/2023
+1363,Webbers Falls,Recovered*,341,01/04/2023
+1364,Welch,Active,6,01/04/2023
+1365,Welch,Deceased,8,01/04/2023
+1366,Welch,Recovered*,534,01/04/2023
+1367,Weleetka,Active,1 to 4,01/04/2023
+1368,Weleetka,Deceased,15,01/04/2023
+1369,Weleetka,Recovered*,515,01/04/2023
+1370,Wellston,Active,1 to 4,01/04/2023
+1371,Wellston,Deceased,20,01/04/2023
+1372,Wellston,Recovered*,1238,01/04/2023
+1373,West Siloam Springs,Recovered*,6,01/04/2023
+1374,Westville,Active,13,01/04/2023
+1375,Westville,Deceased,9,01/04/2023
+1376,Westville,Recovered*,1830,01/04/2023
+1377,Wetumka,Active,1 to 4,01/04/2023
+1378,Wetumka,Deceased,13,01/04/2023
+1379,Wetumka,Recovered*,627,01/04/2023
+1380,Wewoka,Active,12,01/04/2023
+1381,Wewoka,Deceased,51,01/04/2023
+1382,Wewoka,Recovered*,1727,01/04/2023
+1383,Whitefield,Active,1 to 4,01/04/2023
+1384,Whitefield,Deceased,1 to 4,01/04/2023
+1385,Whitefield,Recovered*,130,01/04/2023
+1386,Wilburton,Active,11,01/04/2023
+1387,Wilburton,Deceased,28,01/04/2023
+1388,Wilburton,Recovered*,1650,01/04/2023
+1389,Willow,Active,1 to 4,01/04/2023
+1390,Willow,Recovered*,80,01/04/2023
+1391,Wilson,Active,10,01/04/2023
+1392,Wilson,Deceased,23,01/04/2023
+1393,Wilson,Recovered*,1054,01/04/2023
+1394,Wister,Active,10,01/04/2023
+1395,Wister,Deceased,5,01/04/2023
+1396,Wister,Recovered*,1181,01/04/2023
+1397,Woodlawn Park,Recovered*,1 to 4,01/04/2023
+1398,Woodward,Active,20,01/04/2023
+1399,Woodward,Deceased,66,01/04/2023
+1400,Woodward,Recovered*,4206,01/04/2023
+1401,Wright City,Active,1 to 4,01/04/2023
+1402,Wright City,Deceased,7,01/04/2023
+1403,Wright City,Recovered*,455,01/04/2023
+1404,Wyandotte,Active,6,01/04/2023
+1405,Wyandotte,Deceased,12,01/04/2023
+1406,Wyandotte,Recovered*,967,01/04/2023
+1407,Wynnewood,Active,11,01/04/2023
+1408,Wynnewood,Deceased,23,01/04/2023
+1409,Wynnewood,Recovered*,1180,01/04/2023
+1410,Wynona,Deceased,1 to 4,01/04/2023
+1411,Wynona,Recovered*,134,01/04/2023
+1412,Yale,Active,1 to 4,01/04/2023
+1413,Yale,Deceased,16,01/04/2023
+1414,Yale,Recovered*,589,01/04/2023
+1415,Yeager,Recovered*,1 to 4,01/04/2023
+1416,Yukon,Active,166,01/04/2023
+1417,Yukon,Deceased,205,01/04/2023
+1418,Yukon,Recovered*,25921,01/04/2023
